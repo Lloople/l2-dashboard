@@ -1,0 +1,7442 @@
+[
+  {
+    "quest_id": "171",
+    "name": "Activities of the Remnants (Unknown / No level restrictions)",
+    "level": "",
+    "start_npc": "[Guard] Alvah",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": []
+  },
+  {
+    "quest_id": "330",
+    "name": "Adept of Taste",
+    "level": "24",
+    "start_npc": "Jonas",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "5800"
+      },
+      {
+        "item_id": "57",
+        "count": "7800"
+      },
+      {
+        "item_id": "1422",
+        "count": "40"
+      },
+      {
+        "item_id": "1423",
+        "count": "40"
+      },
+      {
+        "item_id": "1427",
+        "count": "20"
+      },
+      {
+        "item_id": "1428",
+        "count": "10"
+      },
+      {
+        "item_id": "1432",
+        "count": "30"
+      },
+      {
+        "item_id": "1435",
+        "count": "20"
+      },
+      {
+        "item_id": "1436",
+        "count": "20"
+      },
+      {
+        "item_id": "1440",
+        "count": "30"
+      },
+      {
+        "item_id": "1455",
+        "count": "1"
+      },
+      {
+        "item_id": "1456",
+        "count": "1"
+      },
+      {
+        "item_id": "1457",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5800"
+      },
+      {
+        "item_id": "57",
+        "count": "7800"
+      }
+    ]
+  },
+  {
+    "quest_id": "331",
+    "name": "Arrow of Vengeance",
+    "level": "32",
+    "start_npc": "[Guard] Belton",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "80"
+      },
+      {
+        "item_id": "57",
+        "count": "90"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "1452",
+        "count": "1"
+      },
+      {
+        "item_id": "1453",
+        "count": "1"
+      },
+      {
+        "item_id": "1454",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "80"
+      },
+      {
+        "item_id": "1452",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "90"
+      },
+      {
+        "item_id": "1453",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "1454",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "337",
+    "name": "Audience with the Land Dragon",
+    "level": "50",
+    "start_npc": "Gabrielle",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3853",
+        "count": "1"
+      },
+      {
+        "item_id": "3854",
+        "count": "1"
+      },
+      {
+        "item_id": "3857",
+        "count": "1"
+      },
+      {
+        "item_id": "3858",
+        "count": "1"
+      },
+      {
+        "item_id": "3855",
+        "count": "1"
+      },
+      {
+        "item_id": "3856",
+        "count": "1"
+      },
+      {
+        "item_id": "3859",
+        "count": "1"
+      },
+      {
+        "item_id": "3862",
+        "count": "1"
+      },
+      {
+        "item_id": "3860",
+        "count": "1"
+      },
+      {
+        "item_id": "3863",
+        "count": "1"
+      },
+      {
+        "item_id": "3861",
+        "count": "1"
+      },
+      {
+        "item_id": "3865",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "164",
+    "name": "Blood Fiend",
+    "level": "21",
+    "start_npc": "[Trader] Creamees",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "3000"
+      },
+      {
+        "item_id": "1044",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "3000"
+      }
+    ]
+  },
+  {
+    "quest_id": "320",
+    "name": "Bones Tell the Future",
+    "level": "10",
+    "start_npc": "[Tetrarch] Kaitar",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "809",
+        "count": "10"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      }
+    ]
+  },
+  {
+    "quest_id": "292",
+    "name": "Brigands Sweep",
+    "level": "5",
+    "start_npc": "[Golden Wheel's] Spiron",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "12"
+      },
+      {
+        "item_id": "57",
+        "count": "36"
+      },
+      {
+        "item_id": "57",
+        "count": "33"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "1483",
+        "count": "1"
+      },
+      {
+        "item_id": "1484",
+        "count": "1"
+      },
+      {
+        "item_id": "1485",
+        "count": "1"
+      },
+      {
+        "item_id": "1483",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "12"
+      },
+      {
+        "item_id": "1484",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "36"
+      },
+      {
+        "item_id": "1485",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "33"
+      },
+      {
+        "item_id": "1486",
+        "count": "1"
+      },
+      {
+        "item_id": "1486",
+        "count": "4"
+      },
+      {
+        "item_id": "1487",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      }
+    ]
+  },
+  {
+    "quest_id": "258",
+    "name": "Bring Wolf Pelts",
+    "level": "3",
+    "start_npc": "[Trader] Lector",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "429",
+        "count": "1"
+      },
+      {
+        "item_id": "42",
+        "count": "1"
+      },
+      {
+        "item_id": "41",
+        "count": "1"
+      },
+      {
+        "item_id": "462",
+        "count": "1"
+      },
+      {
+        "item_id": "18",
+        "count": "1"
+      },
+      {
+        "item_id": "702",
+        "count": "40"
+      },
+      {
+        "item_id": "429",
+        "count": "1"
+      },
+      {
+        "item_id": "42",
+        "count": "1"
+      },
+      {
+        "item_id": "41",
+        "count": "1"
+      },
+      {
+        "item_id": "462",
+        "count": "1"
+      },
+      {
+        "item_id": "18",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "317",
+    "name": "Catch the Wind",
+    "level": "18",
+    "start_npc": "Rizraell",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "30"
+      },
+      {
+        "item_id": "1078",
+        "count": "1"
+      },
+      {
+        "item_id": "1078",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "30"
+      }
+    ]
+  },
+  {
+    "quest_id": "265",
+    "name": "Chains of Slavery",
+    "level": "5",
+    "start_npc": "[Sentry] Kristin",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "13"
+      },
+      {
+        "item_id": "1368",
+        "count": "1"
+      },
+      {
+        "item_id": "1368",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "13"
+      }
+    ]
+  },
+  {
+    "quest_id": "336",
+    "name": "Coin of Magic",
+    "level": "40",
+    "start_npc": "[Warehouse Keeper] Sorint",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "132",
+        "count": "1"
+      },
+      {
+        "item_id": "206",
+        "count": "1"
+      },
+      {
+        "item_id": "233",
+        "count": "1"
+      },
+      {
+        "item_id": "303",
+        "count": "1"
+      },
+      {
+        "item_id": "472",
+        "count": "1"
+      },
+      {
+        "item_id": "852",
+        "count": "1"
+      },
+      {
+        "item_id": "855",
+        "count": "1"
+      },
+      {
+        "item_id": "886",
+        "count": "1"
+      },
+      {
+        "item_id": "916",
+        "count": "1"
+      },
+      {
+        "item_id": "2414",
+        "count": "1"
+      },
+      {
+        "item_id": "2435",
+        "count": "1"
+      },
+      {
+        "item_id": "2459",
+        "count": "1"
+      },
+      {
+        "item_id": "3812",
+        "count": "1"
+      },
+      {
+        "item_id": "3815",
+        "count": "1"
+      },
+      {
+        "item_id": "3473",
+        "count": "1"
+      },
+      {
+        "item_id": "3475",
+        "count": "1"
+      },
+      {
+        "item_id": "3483",
+        "count": "1"
+      },
+      {
+        "item_id": "3485",
+        "count": "1"
+      },
+      {
+        "item_id": "3491",
+        "count": "1"
+      },
+      {
+        "item_id": "3494",
+        "count": "1"
+      },
+      {
+        "item_id": "3814",
+        "count": "1"
+      },
+      {
+        "item_id": "3474",
+        "count": "1"
+      },
+      {
+        "item_id": "3476",
+        "count": "1"
+      },
+      {
+        "item_id": "3484",
+        "count": "1"
+      },
+      {
+        "item_id": "3486",
+        "count": "1"
+      },
+      {
+        "item_id": "3495",
+        "count": "1"
+      },
+      {
+        "item_id": "3492",
+        "count": "1"
+      },
+      {
+        "item_id": "3813",
+        "count": "1"
+      },
+      {
+        "item_id": "3472",
+        "count": "1"
+      },
+      {
+        "item_id": "3490",
+        "count": "1"
+      },
+      {
+        "item_id": "3482",
+        "count": "1"
+      },
+      {
+        "item_id": "3483",
+        "count": "1"
+      },
+      {
+        "item_id": "3472",
+        "count": "10"
+      },
+      {
+        "item_id": "3473",
+        "count": "1"
+      },
+      {
+        "item_id": "3472",
+        "count": "10"
+      },
+      {
+        "item_id": "3491",
+        "count": "1"
+      },
+      {
+        "item_id": "3472",
+        "count": "10"
+      },
+      {
+        "item_id": "3480",
+        "count": "1"
+      },
+      {
+        "item_id": "3472",
+        "count": "20"
+      },
+      {
+        "item_id": "3483",
+        "count": "1"
+      },
+      {
+        "item_id": "3482",
+        "count": "10"
+      },
+      {
+        "item_id": "3494",
+        "count": "1"
+      },
+      {
+        "item_id": "3482",
+        "count": "10"
+      },
+      {
+        "item_id": "3475",
+        "count": "1"
+      },
+      {
+        "item_id": "3482",
+        "count": "10"
+      },
+      {
+        "item_id": "3489",
+        "count": "1"
+      },
+      {
+        "item_id": "3482",
+        "count": "20"
+      },
+      {
+        "item_id": "3485",
+        "count": "1"
+      },
+      {
+        "item_id": "3490",
+        "count": "10"
+      },
+      {
+        "item_id": "3494",
+        "count": "1"
+      },
+      {
+        "item_id": "3490",
+        "count": "10"
+      },
+      {
+        "item_id": "3473",
+        "count": "1"
+      },
+      {
+        "item_id": "3490",
+        "count": "10"
+      },
+      {
+        "item_id": "3498",
+        "count": "1"
+      },
+      {
+        "item_id": "3490",
+        "count": "20"
+      },
+      {
+        "item_id": "3484",
+        "count": "1"
+      },
+      {
+        "item_id": "3483",
+        "count": "5"
+      },
+      {
+        "item_id": "3472",
+        "count": "10"
+      },
+      {
+        "item_id": "3474",
+        "count": "1"
+      },
+      {
+        "item_id": "3483",
+        "count": "5"
+      },
+      {
+        "item_id": "3472",
+        "count": "10"
+      },
+      {
+        "item_id": "3492",
+        "count": "1"
+      },
+      {
+        "item_id": "3483",
+        "count": "5"
+      },
+      {
+        "item_id": "3472",
+        "count": "10"
+      },
+      {
+        "item_id": "3497",
+        "count": "1"
+      },
+      {
+        "item_id": "3483",
+        "count": "10"
+      },
+      {
+        "item_id": "3472",
+        "count": "20"
+      },
+      {
+        "item_id": "3486",
+        "count": "1"
+      },
+      {
+        "item_id": "3494",
+        "count": "5"
+      },
+      {
+        "item_id": "3490",
+        "count": "10"
+      },
+      {
+        "item_id": "3495",
+        "count": "1"
+      },
+      {
+        "item_id": "3494",
+        "count": "5"
+      },
+      {
+        "item_id": "3490",
+        "count": "10"
+      },
+      {
+        "item_id": "3492",
+        "count": "1"
+      },
+      {
+        "item_id": "3494",
+        "count": "5"
+      },
+      {
+        "item_id": "3490",
+        "count": "10"
+      },
+      {
+        "item_id": "3479",
+        "count": "1"
+      },
+      {
+        "item_id": "3494",
+        "count": "10"
+      },
+      {
+        "item_id": "3490",
+        "count": "20"
+      },
+      {
+        "item_id": "3477",
+        "count": "1"
+      },
+      {
+        "item_id": "3474",
+        "count": "5"
+      },
+      {
+        "item_id": "3492",
+        "count": "5"
+      },
+      {
+        "item_id": "3483",
+        "count": "10"
+      },
+      {
+        "item_id": "3493",
+        "count": "1"
+      },
+      {
+        "item_id": "3474",
+        "count": "5"
+      },
+      {
+        "item_id": "3492",
+        "count": "5"
+      },
+      {
+        "item_id": "3483",
+        "count": "10"
+      },
+      {
+        "item_id": "3481",
+        "count": "1"
+      },
+      {
+        "item_id": "3474",
+        "count": "5"
+      },
+      {
+        "item_id": "3492",
+        "count": "5"
+      },
+      {
+        "item_id": "3483",
+        "count": "10"
+      },
+      {
+        "item_id": "3478",
+        "count": "1"
+      },
+      {
+        "item_id": "3474",
+        "count": "10"
+      },
+      {
+        "item_id": "3492",
+        "count": "10"
+      },
+      {
+        "item_id": "3483",
+        "count": "20"
+      },
+      {
+        "item_id": "3477",
+        "count": "1"
+      },
+      {
+        "item_id": "3476",
+        "count": "5"
+      },
+      {
+        "item_id": "3484",
+        "count": "5"
+      },
+      {
+        "item_id": "3485",
+        "count": "10"
+      },
+      {
+        "item_id": "3493",
+        "count": "1"
+      },
+      {
+        "item_id": "3476",
+        "count": "5"
+      },
+      {
+        "item_id": "3484",
+        "count": "5"
+      },
+      {
+        "item_id": "3485",
+        "count": "10"
+      },
+      {
+        "item_id": "3481",
+        "count": "1"
+      },
+      {
+        "item_id": "3476",
+        "count": "5"
+      },
+      {
+        "item_id": "3484",
+        "count": "5"
+      },
+      {
+        "item_id": "3485",
+        "count": "10"
+      },
+      {
+        "item_id": "3487",
+        "count": "1"
+      },
+      {
+        "item_id": "3476",
+        "count": "10"
+      },
+      {
+        "item_id": "3484",
+        "count": "10"
+      },
+      {
+        "item_id": "3485",
+        "count": "20"
+      },
+      {
+        "item_id": "3477",
+        "count": "1"
+      },
+      {
+        "item_id": "3486",
+        "count": "5"
+      },
+      {
+        "item_id": "3495",
+        "count": "5"
+      },
+      {
+        "item_id": "3491",
+        "count": "10"
+      },
+      {
+        "item_id": "3493",
+        "count": "1"
+      },
+      {
+        "item_id": "3486",
+        "count": "5"
+      },
+      {
+        "item_id": "3495",
+        "count": "5"
+      },
+      {
+        "item_id": "3491",
+        "count": "10"
+      },
+      {
+        "item_id": "3481",
+        "count": "1"
+      },
+      {
+        "item_id": "3486",
+        "count": "5"
+      },
+      {
+        "item_id": "3495",
+        "count": "5"
+      },
+      {
+        "item_id": "3491",
+        "count": "10"
+      },
+      {
+        "item_id": "3496",
+        "count": "1"
+      },
+      {
+        "item_id": "3486",
+        "count": "10"
+      },
+      {
+        "item_id": "3495",
+        "count": "10"
+      },
+      {
+        "item_id": "3491",
+        "count": "20"
+      },
+      {
+        "item_id": "852",
+        "count": "1"
+      },
+      {
+        "item_id": "3480",
+        "count": "1"
+      },
+      {
+        "item_id": "3473",
+        "count": "6"
+      },
+      {
+        "item_id": "3494",
+        "count": "6"
+      },
+      {
+        "item_id": "853",
+        "count": "1"
+      },
+      {
+        "item_id": "3489",
+        "count": "1"
+      },
+      {
+        "item_id": "3475",
+        "count": "8"
+      },
+      {
+        "item_id": "3491",
+        "count": "7"
+      },
+      {
+        "item_id": "884",
+        "count": "1"
+      },
+      {
+        "item_id": "3498",
+        "count": "1"
+      },
+      {
+        "item_id": "3483",
+        "count": "5"
+      },
+      {
+        "item_id": "3485",
+        "count": "4"
+      },
+      {
+        "item_id": "916",
+        "count": "1"
+      },
+      {
+        "item_id": "3480",
+        "count": "3"
+      },
+      {
+        "item_id": "3489",
+        "count": "4"
+      },
+      {
+        "item_id": "3498",
+        "count": "3"
+      },
+      {
+        "item_id": "2433",
+        "count": "1"
+      },
+      {
+        "item_id": "3474",
+        "count": "1"
+      },
+      {
+        "item_id": "3495",
+        "count": "1"
+      },
+      {
+        "item_id": "632",
+        "count": "1"
+      },
+      {
+        "item_id": "3486",
+        "count": "1"
+      },
+      {
+        "item_id": "3476",
+        "count": "1"
+      },
+      {
+        "item_id": "3498",
+        "count": "1"
+      },
+      {
+        "item_id": "2456",
+        "count": "1"
+      },
+      {
+        "item_id": "3484",
+        "count": "1"
+      },
+      {
+        "item_id": "3492",
+        "count": "1"
+      },
+      {
+        "item_id": "3489",
+        "count": "1"
+      },
+      {
+        "item_id": "1149",
+        "count": "1"
+      },
+      {
+        "item_id": "3479",
+        "count": "1"
+      },
+      {
+        "item_id": "3488",
+        "count": "1"
+      },
+      {
+        "item_id": "3497",
+        "count": "1"
+      },
+      {
+        "item_id": "198",
+        "count": "1"
+      },
+      {
+        "item_id": "3478",
+        "count": "1"
+      },
+      {
+        "item_id": "3481",
+        "count": "2"
+      },
+      {
+        "item_id": "3495",
+        "count": "2"
+      },
+      {
+        "item_id": "230",
+        "count": "1"
+      },
+      {
+        "item_id": "3496",
+        "count": "1"
+      },
+      {
+        "item_id": "3479",
+        "count": "2"
+      },
+      {
+        "item_id": "3497",
+        "count": "1"
+      },
+      {
+        "item_id": "95",
+        "count": "1"
+      },
+      {
+        "item_id": "3496",
+        "count": "1"
+      },
+      {
+        "item_id": "3477",
+        "count": "2"
+      },
+      {
+        "item_id": "3493",
+        "count": "2"
+      },
+      {
+        "item_id": "132",
+        "count": "1"
+      },
+      {
+        "item_id": "3478",
+        "count": "1"
+      },
+      {
+        "item_id": "3496",
+        "count": "1"
+      },
+      {
+        "item_id": "3496",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "303",
+    "name": "Collect Arrowheads",
+    "level": "10",
+    "start_npc": "[Master] Minia",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "1000"
+      },
+      {
+        "item_id": "963",
+        "count": "10"
+      },
+      {
+        "item_id": "963",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "1000"
+      }
+    ]
+  },
+  {
+    "quest_id": "313",
+    "name": "Collect Spores",
+    "level": "8",
+    "start_npc": "[Trader] Herbiel",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "2000"
+      },
+      {
+        "item_id": "1118",
+        "count": "10"
+      },
+      {
+        "item_id": "57",
+        "count": "2000"
+      }
+    ]
+  },
+  {
+    "quest_id": "261",
+    "name": "Collector’s Dream",
+    "level": "15",
+    "start_npc": "Alshupes",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "1000"
+      },
+      {
+        "item_id": "1087",
+        "count": "8"
+      },
+      {
+        "item_id": "57",
+        "count": "1000"
+      }
+    ]
+  },
+  {
+    "quest_id": "294",
+    "name": "Covert Business",
+    "level": "10",
+    "start_npc": "[Bronze Ley's] Keef",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1508",
+        "count": "1"
+      },
+      {
+        "item_id": "1509",
+        "count": "1"
+      },
+      {
+        "item_id": "1491",
+        "count": "100"
+      },
+      {
+        "item_id": "1491",
+        "count": "100"
+      },
+      {
+        "item_id": "1508",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "2400"
+      },
+      {
+        "item_id": "1508",
+        "count": "1"
+      },
+      {
+        "item_id": "1509",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "306",
+    "name": "Crystals of Fire and Ice",
+    "level": "17",
+    "start_npc": "[Trader] Katerina",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "60"
+      },
+      {
+        "item_id": "1021",
+        "count": "1"
+      },
+      {
+        "item_id": "1020",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "60"
+      }
+    ]
+  },
+  {
+    "quest_id": "329",
+    "name": "Curiosity of a Dwarf",
+    "level": "33",
+    "start_npc": "[Trader] Rolento",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "800"
+      },
+      {
+        "item_id": "1346",
+        "count": "1"
+      },
+      {
+        "item_id": "1365",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "40"
+      },
+      {
+        "item_id": "1365",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "800"
+      },
+      {
+        "item_id": "1346",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "162",
+    "name": "Curse of the Fortress",
+    "level": "12",
+    "start_npc": "[Trader] Unoren",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "625",
+        "count": "1"
+      },
+      {
+        "item_id": "1158",
+        "count": "10"
+      },
+      {
+        "item_id": "1159",
+        "count": "3"
+      },
+      {
+        "item_id": "625",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "170",
+    "name": "Dangerous Seduction",
+    "level": "21",
+    "start_npc": "[Tetrarch] Vellior",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "25",
+        "count": "1"
+      },
+      {
+        "item_id": "1046",
+        "count": "1"
+      },
+      {
+        "item_id": "25",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "204",
+    "name": "Dark Elf's Tutorial",
+    "level": "1",
+    "start_npc": "",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1860",
+        "count": "4"
+      },
+      {
+        "item_id": "1070",
+        "count": "1"
+      },
+      {
+        "item_id": "1665",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "275",
+    "name": "Dark Winged Spies",
+    "level": "11",
+    "start_npc": "[Neruga Chief] Tantus",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "3500"
+      },
+      {
+        "item_id": "1478",
+        "count": "70"
+      },
+      {
+        "item_id": "1479",
+        "count": "1"
+      },
+      {
+        "item_id": "1478",
+        "count": "5"
+      },
+      {
+        "item_id": "57",
+        "count": "3500"
+      }
+    ]
+  },
+  {
+    "quest_id": "153",
+    "name": "Deliver Goods",
+    "level": "2",
+    "start_npc": "[Guard] Arnold",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "600"
+      },
+      {
+        "item_id": "1012",
+        "count": "1"
+      },
+      {
+        "item_id": "1013",
+        "count": "1"
+      },
+      {
+        "item_id": "1014",
+        "count": "1"
+      },
+      {
+        "item_id": "1015",
+        "count": "1"
+      },
+      {
+        "item_id": "1018",
+        "count": "1"
+      },
+      {
+        "item_id": "1017",
+        "count": "1"
+      },
+      {
+        "item_id": "1060",
+        "count": "1"
+      },
+      {
+        "item_id": "1016",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "600"
+      }
+    ]
+  },
+  {
+    "quest_id": "168",
+    "name": "Deliver Supplies",
+    "level": "3",
+    "start_npc": "[Sentry] Jenna",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "450"
+      },
+      {
+        "item_id": "1153",
+        "count": "1"
+      },
+      {
+        "item_id": "1154",
+        "count": "1"
+      },
+      {
+        "item_id": "1155",
+        "count": "1"
+      },
+      {
+        "item_id": "1156",
+        "count": "1"
+      },
+      {
+        "item_id": "1157",
+        "count": "1"
+      },
+      {
+        "item_id": "1157",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "450"
+      }
+    ]
+  },
+  {
+    "quest_id": "316",
+    "name": "Destroy Plague Carriers",
+    "level": "18",
+    "start_npc": "[Master] Ellenia",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "60"
+      },
+      {
+        "item_id": "57",
+        "count": "10000"
+      },
+      {
+        "item_id": "1042",
+        "count": "1"
+      },
+      {
+        "item_id": "1043",
+        "count": "1"
+      },
+      {
+        "item_id": "1043",
+        "count": "1"
+      },
+      {
+        "item_id": "1042",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "60"
+      },
+      {
+        "item_id": "1043",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "10000"
+      }
+    ]
+  },
+  {
+    "quest_id": "295",
+    "name": "Dreaming of the Skies",
+    "level": "11",
+    "start_npc": "[Black Anvil's] Arin",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1508",
+        "count": "1"
+      },
+      {
+        "item_id": "1509",
+        "count": "1"
+      },
+      {
+        "item_id": "1492",
+        "count": "50"
+      },
+      {
+        "item_id": "1492",
+        "count": "50"
+      },
+      {
+        "item_id": "1509",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "2400"
+      },
+      {
+        "item_id": "1508",
+        "count": "1"
+      },
+      {
+        "item_id": "1509",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "206",
+    "name": "Dwarf's Tutorial",
+    "level": "1",
+    "start_npc": "",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1862",
+        "count": "4"
+      },
+      {
+        "item_id": "1498",
+        "count": "1"
+      },
+      {
+        "item_id": "1665",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "167",
+    "name": "Dwarven Kinship",
+    "level": "15",
+    "start_npc": "[Warehouse Freightman] Collette",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "5100"
+      },
+      {
+        "item_id": "1076",
+        "count": "1"
+      },
+      {
+        "item_id": "1106",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "1000"
+      },
+      {
+        "item_id": "57",
+        "count": "5100"
+      }
+    ]
+  },
+  {
+    "quest_id": "203",
+    "name": "Elf's Tutorial",
+    "level": "1",
+    "start_npc": "",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1859",
+        "count": "4"
+      },
+      {
+        "item_id": "1069",
+        "count": "1"
+      },
+      {
+        "item_id": "1665",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "201",
+    "name": "Fighter's Tutorial",
+    "level": "1",
+    "start_npc": "",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1857",
+        "count": "4"
+      },
+      {
+        "item_id": "1067",
+        "count": "1"
+      },
+      {
+        "item_id": "1665",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "155",
+    "name": "Find Sir Windawood",
+    "level": "3",
+    "start_npc": "[Guard] Abellos",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "1019",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      }
+    ]
+  },
+  {
+    "quest_id": "106",
+    "name": "Forgotten Truth",
+    "level": "10",
+    "start_npc": "[Tetrarch] Thifiell",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "989",
+        "count": "1"
+      },
+      {
+        "item_id": "984",
+        "count": "1"
+      },
+      {
+        "item_id": "984",
+        "count": "1"
+      },
+      {
+        "item_id": "985",
+        "count": "1"
+      },
+      {
+        "item_id": "986",
+        "count": "1"
+      },
+      {
+        "item_id": "987",
+        "count": "1"
+      },
+      {
+        "item_id": "986",
+        "count": "1"
+      },
+      {
+        "item_id": "987",
+        "count": "1"
+      },
+      {
+        "item_id": "985",
+        "count": "1"
+      },
+      {
+        "item_id": "989",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "161",
+    "name": "Fruit of the Mothertree",
+    "level": "3",
+    "start_npc": "Andellia",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "500"
+      },
+      {
+        "item_id": "1036",
+        "count": "1"
+      },
+      {
+        "item_id": "1037",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "500"
+      }
+    ]
+  },
+  {
+    "quest_id": "297",
+    "name": "Gatekeeper's Favor",
+    "level": "15",
+    "start_npc": "[Gatekeeper] Wirphy",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1659",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "6000"
+      },
+      {
+        "item_id": "1573",
+        "count": "20"
+      },
+      {
+        "item_id": "1659",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "6000"
+      }
+    ]
+  },
+  {
+    "quest_id": "277",
+    "name": "Gatekeeper's Offering",
+    "level": "15",
+    "start_npc": "[Gatekeeper] Tamil",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1658",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "6000"
+      },
+      {
+        "item_id": "1572",
+        "count": "20"
+      },
+      {
+        "item_id": "1658",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "6000"
+      }
+    ]
+  },
+  {
+    "quest_id": "419",
+    "name": "Get a Pet",
+    "level": "15",
+    "start_npc": "[Pet Manager] Martin",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2375",
+        "count": "1"
+      },
+      {
+        "item_id": "3423",
+        "count": "50"
+      },
+      {
+        "item_id": "3424",
+        "count": "50"
+      },
+      {
+        "item_id": "3425",
+        "count": "50"
+      },
+      {
+        "item_id": "3426",
+        "count": "50"
+      },
+      {
+        "item_id": "3427",
+        "count": "50"
+      },
+      {
+        "item_id": "2375",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "325",
+    "name": "Grim Collector",
+    "level": "15",
+    "start_npc": "[Guard] Curtis",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "2000"
+      },
+      {
+        "item_id": "1349",
+        "count": "1"
+      },
+      {
+        "item_id": "1353",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "50"
+      },
+      {
+        "item_id": "1354",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "15"
+      },
+      {
+        "item_id": "1356",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "10"
+      },
+      {
+        "item_id": "1355",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "10"
+      },
+      {
+        "item_id": "1357",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "10"
+      },
+      {
+        "item_id": "1350",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "30"
+      },
+      {
+        "item_id": "1351",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "20"
+      },
+      {
+        "item_id": "1352",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "20"
+      },
+      {
+        "item_id": "1358",
+        "count": "1"
+      },
+      {
+        "item_id": "1358",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "2000"
+      }
+    ]
+  },
+  {
+    "quest_id": "333",
+    "name": "Hunt of the Black Lion",
+    "level": "25",
+    "start_npc": "[mercenary] sophya",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3440",
+        "count": "1"
+      },
+      {
+        "item_id": "3441",
+        "count": "1"
+      },
+      {
+        "item_id": "3442",
+        "count": "1"
+      },
+      {
+        "item_id": "3443",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "650"
+      },
+      {
+        "item_id": "3444",
+        "count": "1"
+      },
+      {
+        "item_id": "3445",
+        "count": "1"
+      },
+      {
+        "item_id": "3446",
+        "count": "1"
+      },
+      {
+        "item_id": "3447",
+        "count": "1"
+      },
+      {
+        "item_id": "3448",
+        "count": "1"
+      },
+      {
+        "item_id": "3449",
+        "count": "1"
+      },
+      {
+        "item_id": "3450",
+        "count": "1"
+      },
+      {
+        "item_id": "3451",
+        "count": "1"
+      },
+      {
+        "item_id": "3452",
+        "count": "1"
+      },
+      {
+        "item_id": "3453",
+        "count": "1"
+      },
+      {
+        "item_id": "3454",
+        "count": "1"
+      },
+      {
+        "item_id": "3455",
+        "count": "1"
+      },
+      {
+        "item_id": "3456",
+        "count": "1"
+      },
+      {
+        "item_id": "3457",
+        "count": "1"
+      },
+      {
+        "item_id": "3458",
+        "count": "1"
+      },
+      {
+        "item_id": "3459",
+        "count": "1"
+      },
+      {
+        "item_id": "3460",
+        "count": "1"
+      },
+      {
+        "item_id": "3462",
+        "count": "1"
+      },
+      {
+        "item_id": "3463",
+        "count": "1"
+      },
+      {
+        "item_id": "3464",
+        "count": "1"
+      },
+      {
+        "item_id": "3465",
+        "count": "1"
+      },
+      {
+        "item_id": "3457",
+        "count": "1"
+      },
+      {
+        "item_id": "3458",
+        "count": "1"
+      },
+      {
+        "item_id": "3459",
+        "count": "1"
+      },
+      {
+        "item_id": "3460",
+        "count": "1"
+      },
+      {
+        "item_id": "3461",
+        "count": "1"
+      },
+      {
+        "item_id": "3461",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "30000"
+      },
+      {
+        "item_id": "57",
+        "count": "10000"
+      },
+      {
+        "item_id": "3462",
+        "count": "1"
+      },
+      {
+        "item_id": "3463",
+        "count": "1"
+      },
+      {
+        "item_id": "3464",
+        "count": "1"
+      },
+      {
+        "item_id": "3465",
+        "count": "1"
+      },
+      {
+        "item_id": "3466",
+        "count": "1"
+      },
+      {
+        "item_id": "3466",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "30000"
+      },
+      {
+        "item_id": "57",
+        "count": "10000"
+      },
+      {
+        "item_id": "1369",
+        "count": "1"
+      },
+      {
+        "item_id": "3848",
+        "count": "1"
+      },
+      {
+        "item_id": "3440",
+        "count": "1"
+      },
+      {
+        "item_id": "3849",
+        "count": "1"
+      },
+      {
+        "item_id": "3441",
+        "count": "1"
+      },
+      {
+        "item_id": "3850",
+        "count": "1"
+      },
+      {
+        "item_id": "3442",
+        "count": "1"
+      },
+      {
+        "item_id": "3851",
+        "count": "1"
+      },
+      {
+        "item_id": "3443",
+        "count": "1"
+      },
+      {
+        "item_id": "3851",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "35"
+      },
+      {
+        "item_id": "3850",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "35"
+      },
+      {
+        "item_id": "3849",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "35"
+      },
+      {
+        "item_id": "3848",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "35"
+      },
+      {
+        "item_id": "3851",
+        "count": "1"
+      },
+      {
+        "item_id": "3850",
+        "count": "1"
+      },
+      {
+        "item_id": "3849",
+        "count": "1"
+      },
+      {
+        "item_id": "3848",
+        "count": "1"
+      },
+      {
+        "item_id": "3675",
+        "count": "1"
+      },
+      {
+        "item_id": "3851",
+        "count": "1"
+      },
+      {
+        "item_id": "3850",
+        "count": "1"
+      },
+      {
+        "item_id": "3849",
+        "count": "1"
+      },
+      {
+        "item_id": "3848",
+        "count": "1"
+      },
+      {
+        "item_id": "3675",
+        "count": "2"
+      },
+      {
+        "item_id": "3851",
+        "count": "1"
+      },
+      {
+        "item_id": "3850",
+        "count": "1"
+      },
+      {
+        "item_id": "3849",
+        "count": "1"
+      },
+      {
+        "item_id": "3848",
+        "count": "1"
+      },
+      {
+        "item_id": "3675",
+        "count": "3"
+      },
+      {
+        "item_id": "3675",
+        "count": "10"
+      },
+      {
+        "item_id": "3676",
+        "count": "1"
+      },
+      {
+        "item_id": "3676",
+        "count": "1"
+      },
+      {
+        "item_id": "1061",
+        "count": "20"
+      },
+      {
+        "item_id": "1463",
+        "count": "100"
+      },
+      {
+        "item_id": "2510",
+        "count": "50"
+      },
+      {
+        "item_id": "736",
+        "count": "20"
+      },
+      {
+        "item_id": "735",
+        "count": "3"
+      },
+      {
+        "item_id": "3675",
+        "count": "10"
+      },
+      {
+        "item_id": "3676",
+        "count": "1"
+      },
+      {
+        "item_id": "3676",
+        "count": "1"
+      },
+      {
+        "item_id": "1061",
+        "count": "25"
+      },
+      {
+        "item_id": "1463",
+        "count": "200"
+      },
+      {
+        "item_id": "2510",
+        "count": "100"
+      },
+      {
+        "item_id": "736",
+        "count": "20"
+      },
+      {
+        "item_id": "735",
+        "count": "3"
+      },
+      {
+        "item_id": "3675",
+        "count": "10"
+      },
+      {
+        "item_id": "3676",
+        "count": "1"
+      },
+      {
+        "item_id": "3676",
+        "count": "1"
+      },
+      {
+        "item_id": "1061",
+        "count": "50"
+      },
+      {
+        "item_id": "1463",
+        "count": "400"
+      },
+      {
+        "item_id": "2510",
+        "count": "200"
+      },
+      {
+        "item_id": "736",
+        "count": "30"
+      },
+      {
+        "item_id": "735",
+        "count": "4"
+      },
+      {
+        "item_id": "3440",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "3677",
+        "count": "1"
+      },
+      {
+        "item_id": "3440",
+        "count": "2"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "3677",
+        "count": "1"
+      },
+      {
+        "item_id": "3440",
+        "count": "3"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "3677",
+        "count": "1"
+      },
+      {
+        "item_id": "3440",
+        "count": "4"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "3677",
+        "count": "1"
+      },
+      {
+        "item_id": "3440",
+        "count": "1"
+      },
+      {
+        "item_id": "3441",
+        "count": "1"
+      },
+      {
+        "item_id": "3442",
+        "count": "1"
+      },
+      {
+        "item_id": "3443",
+        "count": "1"
+      },
+      {
+        "item_id": "3677",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "200"
+      },
+      {
+        "item_id": "3677",
+        "count": "1"
+      },
+      {
+        "item_id": "3440",
+        "count": "1"
+      },
+      {
+        "item_id": "3441",
+        "count": "1"
+      },
+      {
+        "item_id": "3442",
+        "count": "1"
+      },
+      {
+        "item_id": "3443",
+        "count": "1"
+      },
+      {
+        "item_id": "3677",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "300"
+      },
+      {
+        "item_id": "3677",
+        "count": "1"
+      },
+      {
+        "item_id": "3440",
+        "count": "1"
+      },
+      {
+        "item_id": "3441",
+        "count": "1"
+      },
+      {
+        "item_id": "3442",
+        "count": "1"
+      },
+      {
+        "item_id": "3443",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "650"
+      },
+      {
+        "item_id": "3444",
+        "count": "1"
+      },
+      {
+        "item_id": "3445",
+        "count": "1"
+      },
+      {
+        "item_id": "3446",
+        "count": "1"
+      },
+      {
+        "item_id": "3447",
+        "count": "1"
+      },
+      {
+        "item_id": "3448",
+        "count": "1"
+      },
+      {
+        "item_id": "3449",
+        "count": "1"
+      },
+      {
+        "item_id": "3450",
+        "count": "1"
+      },
+      {
+        "item_id": "3451",
+        "count": "1"
+      },
+      {
+        "item_id": "3452",
+        "count": "1"
+      },
+      {
+        "item_id": "3453",
+        "count": "1"
+      },
+      {
+        "item_id": "3454",
+        "count": "1"
+      },
+      {
+        "item_id": "3455",
+        "count": "1"
+      },
+      {
+        "item_id": "3456",
+        "count": "1"
+      },
+      {
+        "item_id": "3457",
+        "count": "1"
+      },
+      {
+        "item_id": "3458",
+        "count": "1"
+      },
+      {
+        "item_id": "3459",
+        "count": "1"
+      },
+      {
+        "item_id": "3460",
+        "count": "1"
+      },
+      {
+        "item_id": "3462",
+        "count": "1"
+      },
+      {
+        "item_id": "3463",
+        "count": "1"
+      },
+      {
+        "item_id": "3464",
+        "count": "1"
+      },
+      {
+        "item_id": "3465",
+        "count": "1"
+      },
+      {
+        "item_id": "3457",
+        "count": "1"
+      },
+      {
+        "item_id": "3458",
+        "count": "1"
+      },
+      {
+        "item_id": "3459",
+        "count": "1"
+      },
+      {
+        "item_id": "3460",
+        "count": "1"
+      },
+      {
+        "item_id": "3461",
+        "count": "1"
+      },
+      {
+        "item_id": "3461",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "30000"
+      },
+      {
+        "item_id": "57",
+        "count": "10000"
+      },
+      {
+        "item_id": "3462",
+        "count": "1"
+      },
+      {
+        "item_id": "3463",
+        "count": "1"
+      },
+      {
+        "item_id": "3464",
+        "count": "1"
+      },
+      {
+        "item_id": "3465",
+        "count": "1"
+      },
+      {
+        "item_id": "3466",
+        "count": "1"
+      },
+      {
+        "item_id": "3466",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "30000"
+      },
+      {
+        "item_id": "57",
+        "count": "10000"
+      }
+    ]
+  },
+  {
+    "quest_id": "260",
+    "name": "Hunt the Orcs",
+    "level": "6",
+    "start_npc": "[Sentinel] Rayen",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "8"
+      },
+      {
+        "item_id": "57",
+        "count": "15"
+      },
+      {
+        "item_id": "1114",
+        "count": "1"
+      },
+      {
+        "item_id": "1115",
+        "count": "1"
+      },
+      {
+        "item_id": "1114",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "8"
+      },
+      {
+        "item_id": "1115",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "15"
+      }
+    ]
+  },
+  {
+    "quest_id": "273",
+    "name": "Invaders of the Holy Land",
+    "level": "6",
+    "start_npc": "[Atuba Chief] Varkees",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "5"
+      },
+      {
+        "item_id": "57",
+        "count": "50"
+      },
+      {
+        "item_id": "1475",
+        "count": "1"
+      },
+      {
+        "item_id": "1476",
+        "count": "1"
+      },
+      {
+        "item_id": "1475",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5"
+      },
+      {
+        "item_id": "1476",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "50"
+      }
+    ]
+  },
+  {
+    "quest_id": "108",
+    "name": "Jumble, Tumble, Diamond Fuss",
+    "level": "10",
+    "start_npc": "[Collector] Gouph",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1511",
+        "count": "1"
+      },
+      {
+        "item_id": "1559",
+        "count": "1"
+      },
+      {
+        "item_id": "1560",
+        "count": "1"
+      },
+      {
+        "item_id": "1561",
+        "count": "1"
+      },
+      {
+        "item_id": "1562",
+        "count": "1"
+      },
+      {
+        "item_id": "1563",
+        "count": "1"
+      },
+      {
+        "item_id": "1564",
+        "count": "10"
+      },
+      {
+        "item_id": "1565",
+        "count": "10"
+      },
+      {
+        "item_id": "1566",
+        "count": "1"
+      },
+      {
+        "item_id": "1567",
+        "count": "1"
+      },
+      {
+        "item_id": "1568",
+        "count": "1"
+      },
+      {
+        "item_id": "1569",
+        "count": "1"
+      },
+      {
+        "item_id": "1570",
+        "count": "1"
+      },
+      {
+        "item_id": "1571",
+        "count": "1"
+      },
+      {
+        "item_id": "1511",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "264",
+    "name": "Keen Claws",
+    "level": "3",
+    "start_npc": "[Trader] Payne",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "43",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "1000"
+      },
+      {
+        "item_id": "36",
+        "count": "1"
+      },
+      {
+        "item_id": "462",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "50"
+      },
+      {
+        "item_id": "48",
+        "count": "1"
+      },
+      {
+        "item_id": "35",
+        "count": "1"
+      },
+      {
+        "item_id": "1367",
+        "count": "50"
+      },
+      {
+        "item_id": "43",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "1000"
+      },
+      {
+        "item_id": "36",
+        "count": "1"
+      },
+      {
+        "item_id": "462",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "50"
+      },
+      {
+        "item_id": "48",
+        "count": "1"
+      },
+      {
+        "item_id": "35",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "163",
+    "name": "Legacy of the Poet",
+    "level": "11",
+    "start_npc": "[Sentinel] Starden",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "22",
+        "count": "1"
+      },
+      {
+        "item_id": "1038",
+        "count": "1"
+      },
+      {
+        "item_id": "1039",
+        "count": "1"
+      },
+      {
+        "item_id": "1040",
+        "count": "1"
+      },
+      {
+        "item_id": "1041",
+        "count": "1"
+      },
+      {
+        "item_id": "22",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "1",
+    "name": "Letters of Love",
+    "level": "2",
+    "start_npc": "Darin",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "450"
+      },
+      {
+        "item_id": "687",
+        "count": "1"
+      },
+      {
+        "item_id": "688",
+        "count": "1"
+      },
+      {
+        "item_id": "1079",
+        "count": "1"
+      },
+      {
+        "item_id": "1079",
+        "count": "1"
+      },
+      {
+        "item_id": "1080",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "450"
+      }
+    ]
+  },
+  {
+    "quest_id": "420",
+    "name": "Little Wing",
+    "level": "35",
+    "start_npc": "[Pet Manager] Cooper",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3500",
+        "count": "1"
+      },
+      {
+        "item_id": "3501",
+        "count": "1"
+      },
+      {
+        "item_id": "3502",
+        "count": "1"
+      },
+      {
+        "item_id": "3816",
+        "count": "1"
+      },
+      {
+        "item_id": "1870",
+        "count": "10"
+      },
+      {
+        "item_id": "1871",
+        "count": "10"
+      },
+      {
+        "item_id": "2130",
+        "count": "1"
+      },
+      {
+        "item_id": "1873",
+        "count": "3"
+      },
+      {
+        "item_id": "3820",
+        "count": "10"
+      },
+      {
+        "item_id": "3817",
+        "count": "1"
+      },
+      {
+        "item_id": "1870",
+        "count": "10"
+      },
+      {
+        "item_id": "1871",
+        "count": "10"
+      },
+      {
+        "item_id": "2130",
+        "count": "1"
+      },
+      {
+        "item_id": "1873",
+        "count": "5"
+      },
+      {
+        "item_id": "1875",
+        "count": "1"
+      },
+      {
+        "item_id": "3820",
+        "count": "20"
+      },
+      {
+        "item_id": "4038",
+        "count": "20"
+      },
+      {
+        "item_id": "3827",
+        "count": "20"
+      },
+      {
+        "item_id": "3823",
+        "count": "20"
+      },
+      {
+        "item_id": "3829",
+        "count": "20"
+      },
+      {
+        "item_id": "3831",
+        "count": "20"
+      },
+      {
+        "item_id": "3825",
+        "count": "20"
+      },
+      {
+        "item_id": "3500",
+        "count": "1"
+      },
+      {
+        "item_id": "3501",
+        "count": "1"
+      },
+      {
+        "item_id": "3502",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "4",
+    "name": "Long Live the Paagrio Lord",
+    "level": "2",
+    "start_npc": "[Centurion] Nakusin",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "450"
+      },
+      {
+        "item_id": "1541",
+        "count": "1"
+      },
+      {
+        "item_id": "1542",
+        "count": "1"
+      },
+      {
+        "item_id": "1544",
+        "count": "1"
+      },
+      {
+        "item_id": "1543",
+        "count": "1"
+      },
+      {
+        "item_id": "1546",
+        "count": "1"
+      },
+      {
+        "item_id": "1545",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "450"
+      }
+    ]
+  },
+  {
+    "quest_id": "166",
+    "name": "Mass of Darkness",
+    "level": "2",
+    "start_npc": "[Abyssal Celebrant] Undrias",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "250"
+      },
+      {
+        "item_id": "1088",
+        "count": "1"
+      },
+      {
+        "item_id": "1090",
+        "count": "1"
+      },
+      {
+        "item_id": "1091",
+        "count": "1"
+      },
+      {
+        "item_id": "1089",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "250"
+      }
+    ]
+  },
+  {
+    "quest_id": "107",
+    "name": "Merciless Punishment",
+    "level": "12",
+    "start_npc": "[Urutu Chief] Hatos",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1510",
+        "count": "1"
+      },
+      {
+        "item_id": "1553",
+        "count": "1"
+      },
+      {
+        "item_id": "1557",
+        "count": "1"
+      },
+      {
+        "item_id": "1554",
+        "count": "1"
+      },
+      {
+        "item_id": "1556",
+        "count": "1"
+      },
+      {
+        "item_id": "1555",
+        "count": "1"
+      },
+      {
+        "item_id": "1558",
+        "count": "1"
+      },
+      {
+        "item_id": "1510",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "156",
+    "name": "Millennium Love",
+    "level": "15",
+    "start_npc": "Lilith",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "735",
+        "count": "2"
+      },
+      {
+        "item_id": "1022",
+        "count": "1"
+      },
+      {
+        "item_id": "1023",
+        "count": "1"
+      },
+      {
+        "item_id": "735",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "quest_id": "5",
+    "name": "Miner's Favor",
+    "level": "2",
+    "start_npc": "[Miner] Bolter",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "450"
+      },
+      {
+        "item_id": "1552",
+        "count": "1"
+      },
+      {
+        "item_id": "1547",
+        "count": "1"
+      },
+      {
+        "item_id": "1548",
+        "count": "1"
+      },
+      {
+        "item_id": "1550",
+        "count": "1"
+      },
+      {
+        "item_id": "1551",
+        "count": "1"
+      },
+      {
+        "item_id": "1552",
+        "count": "1"
+      },
+      {
+        "item_id": "1549",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "450"
+      }
+    ]
+  },
+  {
+    "quest_id": "202",
+    "name": "Mystic's Tutorial",
+    "level": "1",
+    "start_npc": "",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1858",
+        "count": "4"
+      },
+      {
+        "item_id": "1068",
+        "count": "1"
+      },
+      {
+        "item_id": "1665",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "160",
+    "name": "Nerupa’s Request",
+    "level": "3",
+    "start_npc": "Nerupa",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1060",
+        "count": "1"
+      },
+      {
+        "item_id": "1026",
+        "count": "1"
+      },
+      {
+        "item_id": "1026",
+        "count": "1"
+      },
+      {
+        "item_id": "1027",
+        "count": "1"
+      },
+      {
+        "item_id": "1027",
+        "count": "1"
+      },
+      {
+        "item_id": "1028",
+        "count": "1"
+      },
+      {
+        "item_id": "1028",
+        "count": "1"
+      },
+      {
+        "item_id": "1029",
+        "count": "1"
+      },
+      {
+        "item_id": "1029",
+        "count": "1"
+      },
+      {
+        "item_id": "1060",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "169",
+    "name": "Offspring of Nightmares",
+    "level": "15",
+    "start_npc": "[Magister] Vlasty",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "31",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "30"
+      },
+      {
+        "item_id": "1031",
+        "count": "1"
+      },
+      {
+        "item_id": "1030",
+        "count": "1"
+      },
+      {
+        "item_id": "31",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "30"
+      },
+      {
+        "item_id": "1030",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "263",
+    "name": "Orc Subjugation",
+    "level": "8",
+    "start_npc": "[Sentry] Kayleen",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "8"
+      },
+      {
+        "item_id": "57",
+        "count": "15"
+      },
+      {
+        "item_id": "1116",
+        "count": "1"
+      },
+      {
+        "item_id": "1117",
+        "count": "1"
+      },
+      {
+        "item_id": "1116",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "8"
+      },
+      {
+        "item_id": "1117",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "15"
+      }
+    ]
+  },
+  {
+    "quest_id": "205",
+    "name": "Orc's Tutorial",
+    "level": "1",
+    "start_npc": "",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1861",
+        "count": "4"
+      },
+      {
+        "item_id": "1496",
+        "count": "1"
+      },
+      {
+        "item_id": "1665",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "266",
+    "name": "Pleas of Pixies",
+    "level": "3",
+    "start_npc": "Pixy Murika",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1337",
+        "count": "1"
+      },
+      {
+        "item_id": "1338",
+        "count": "1"
+      },
+      {
+        "item_id": "1339",
+        "count": "1"
+      },
+      {
+        "item_id": "1336",
+        "count": "1"
+      },
+      {
+        "item_id": "1334",
+        "count": "100"
+      },
+      {
+        "item_id": "1334",
+        "count": "1"
+      },
+      {
+        "item_id": "1337",
+        "count": "1"
+      },
+      {
+        "item_id": "1338",
+        "count": "1"
+      },
+      {
+        "item_id": "1339",
+        "count": "1"
+      },
+      {
+        "item_id": "1336",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "271",
+    "name": "Proof of Valor",
+    "level": "4",
+    "start_npc": "[Praetorian] Rukain",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1507",
+        "count": "1"
+      },
+      {
+        "item_id": "1506",
+        "count": "1"
+      },
+      {
+        "item_id": "1473",
+        "count": "50"
+      },
+      {
+        "item_id": "1473",
+        "count": "1"
+      },
+      {
+        "item_id": "1507",
+        "count": "1"
+      },
+      {
+        "item_id": "1506",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "159",
+    "name": "Protect the Water Source",
+    "level": "12",
+    "start_npc": "[Tetrarch] Asterios",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "2500"
+      },
+      {
+        "item_id": "876",
+        "count": "1"
+      },
+      {
+        "item_id": "1071",
+        "count": "1"
+      },
+      {
+        "item_id": "1035",
+        "count": "1"
+      },
+      {
+        "item_id": "1035",
+        "count": "5"
+      },
+      {
+        "item_id": "57",
+        "count": "2500"
+      },
+      {
+        "item_id": "876",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "259",
+    "name": "Rancher's Plea",
+    "level": "15",
+    "start_npc": "Edmond",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "25"
+      },
+      {
+        "item_id": "1061",
+        "count": "1"
+      },
+      {
+        "item_id": "17",
+        "count": "50"
+      },
+      {
+        "item_id": "1495",
+        "count": "1"
+      },
+      {
+        "item_id": "1495",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "25"
+      },
+      {
+        "item_id": "1495",
+        "count": "1"
+      },
+      {
+        "item_id": "1061",
+        "count": "1"
+      },
+      {
+        "item_id": "17",
+        "count": "50"
+      }
+    ]
+  },
+  {
+    "quest_id": "327",
+    "name": "Reclaim the Land",
+    "level": "25",
+    "start_npc": "Piotur",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "20"
+      },
+      {
+        "item_id": "57",
+        "count": "25"
+      },
+      {
+        "item_id": "1850",
+        "count": "1"
+      },
+      {
+        "item_id": "1851",
+        "count": "1"
+      },
+      {
+        "item_id": "1848",
+        "count": "1"
+      },
+      {
+        "item_id": "1849",
+        "count": "1"
+      },
+      {
+        "item_id": "1846",
+        "count": "1"
+      },
+      {
+        "item_id": "1848",
+        "count": "1"
+      },
+      {
+        "item_id": "1849",
+        "count": "1"
+      },
+      {
+        "item_id": "1850",
+        "count": "1"
+      },
+      {
+        "item_id": "1851",
+        "count": "1"
+      },
+      {
+        "item_id": "1847",
+        "count": "1"
+      },
+      {
+        "item_id": "1848",
+        "count": "1"
+      },
+      {
+        "item_id": "1849",
+        "count": "1"
+      },
+      {
+        "item_id": "1850",
+        "count": "1"
+      },
+      {
+        "item_id": "1851",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "20"
+      },
+      {
+        "item_id": "1846",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "25"
+      },
+      {
+        "item_id": "1847",
+        "count": "1"
+      },
+      {
+        "item_id": "1850",
+        "count": "1"
+      },
+      {
+        "item_id": "1851",
+        "count": "1"
+      },
+      {
+        "item_id": "1848",
+        "count": "1"
+      },
+      {
+        "item_id": "1849",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "157",
+    "name": "Recover Smuggled Goods",
+    "level": "5",
+    "start_npc": "[Warehouse Keeper] Wilford",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "1500"
+      },
+      {
+        "item_id": "1024",
+        "count": "20"
+      },
+      {
+        "item_id": "57",
+        "count": "1500"
+      }
+    ]
+  },
+  {
+    "quest_id": "291",
+    "name": "Revenge of the Redbonnet",
+    "level": "4",
+    "start_npc": "Maryse Redbonnet",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1505",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "1504",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "300"
+      },
+      {
+        "item_id": "1503",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "500"
+      },
+      {
+        "item_id": "1502",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5000"
+      },
+      {
+        "item_id": "1482",
+        "count": "40"
+      },
+      {
+        "item_id": "1482",
+        "count": "40"
+      },
+      {
+        "item_id": "1505",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "100"
+      },
+      {
+        "item_id": "1504",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "300"
+      },
+      {
+        "item_id": "1503",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "500"
+      },
+      {
+        "item_id": "1502",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5000"
+      }
+    ]
+  },
+  {
+    "quest_id": "154",
+    "name": "Sacrifice to the Sea",
+    "level": "2",
+    "start_npc": "[Lighthouse Keeper] Rockswell",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "400"
+      },
+      {
+        "item_id": "1032",
+        "count": "10"
+      },
+      {
+        "item_id": "1033",
+        "count": "1"
+      },
+      {
+        "item_id": "1034",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "400"
+      }
+    ]
+  },
+  {
+    "quest_id": "151",
+    "name": "Save My Sister",
+    "level": "15",
+    "start_npc": "Elias",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "735",
+        "count": "2"
+      },
+      {
+        "item_id": "703",
+        "count": "1"
+      },
+      {
+        "item_id": "704",
+        "count": "1"
+      },
+      {
+        "item_id": "735",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "quest_id": "319",
+    "name": "Scent of Death",
+    "level": "11",
+    "start_npc": "[Trader] Minaless",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "2000"
+      },
+      {
+        "item_id": "1061",
+        "count": "1"
+      },
+      {
+        "item_id": "1045",
+        "count": "5"
+      },
+      {
+        "item_id": "57",
+        "count": "2000"
+      },
+      {
+        "item_id": "1061",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "102",
+    "name": "Sea of Spores Fever",
+    "level": "12",
+    "start_npc": "[Sentinel Knight] Alberius",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "743",
+        "count": "1"
+      },
+      {
+        "item_id": "744",
+        "count": "1"
+      },
+      {
+        "item_id": "964",
+        "count": "1"
+      },
+      {
+        "item_id": "964",
+        "count": "1"
+      },
+      {
+        "item_id": "965",
+        "count": "1"
+      },
+      {
+        "item_id": "966",
+        "count": "10"
+      },
+      {
+        "item_id": "1130",
+        "count": "1"
+      },
+      {
+        "item_id": "746",
+        "count": "1"
+      },
+      {
+        "item_id": "1131",
+        "count": "1"
+      },
+      {
+        "item_id": "1132",
+        "count": "1"
+      },
+      {
+        "item_id": "1133",
+        "count": "1"
+      },
+      {
+        "item_id": "1134",
+        "count": "1"
+      },
+      {
+        "item_id": "743",
+        "count": "1"
+      },
+      {
+        "item_id": "744",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "158",
+    "name": "Seed of Evil",
+    "level": "21",
+    "start_npc": "[High Priest] Biotin",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "6000"
+      },
+      {
+        "item_id": "153",
+        "count": "1"
+      },
+      {
+        "item_id": "1025",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "6000"
+      },
+      {
+        "item_id": "153",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "328",
+    "name": "Sense for Business",
+    "level": "21",
+    "start_npc": "[Trader] Sarien",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "30"
+      },
+      {
+        "item_id": "57",
+        "count": "75"
+      },
+      {
+        "item_id": "57",
+        "count": "2000"
+      },
+      {
+        "item_id": "1347",
+        "count": "1"
+      },
+      {
+        "item_id": "1366",
+        "count": "1"
+      },
+      {
+        "item_id": "1348",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "30"
+      },
+      {
+        "item_id": "1347",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "75"
+      },
+      {
+        "item_id": "1348",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "2000"
+      },
+      {
+        "item_id": "1366",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "152",
+    "name": "Shards of Golem",
+    "level": "10",
+    "start_npc": "[Magister] Harrys",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1100",
+        "count": "1"
+      },
+      {
+        "item_id": "1008",
+        "count": "1"
+      },
+      {
+        "item_id": "1008",
+        "count": "1"
+      },
+      {
+        "item_id": "1009",
+        "count": "1"
+      },
+      {
+        "item_id": "1010",
+        "count": "5"
+      },
+      {
+        "item_id": "1011",
+        "count": "1"
+      },
+      {
+        "item_id": "1009",
+        "count": "1"
+      },
+      {
+        "item_id": "1100",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "165",
+    "name": "Shilen’s Hunt",
+    "level": "3",
+    "start_npc": "[Sentry] Nelsya",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1060",
+        "count": "1"
+      },
+      {
+        "item_id": "1160",
+        "count": "13"
+      },
+      {
+        "item_id": "1060",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "105",
+    "name": "Skirmish with the Orcs",
+    "level": "10",
+    "start_npc": "[Sentinel] Kendnell",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "981",
+        "count": "1"
+      },
+      {
+        "item_id": "754",
+        "count": "1"
+      },
+      {
+        "item_id": "1844",
+        "count": "1"
+      },
+      {
+        "item_id": "1845",
+        "count": "1"
+      },
+      {
+        "item_id": "981",
+        "count": "1"
+      },
+      {
+        "item_id": "754",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "274",
+    "name": "Skirmish with the Werewolves",
+    "level": "9",
+    "start_npc": "[Prefect] Brukurse",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "1200"
+      },
+      {
+        "item_id": "1477",
+        "count": "40"
+      },
+      {
+        "item_id": "1501",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "600"
+      },
+      {
+        "item_id": "57",
+        "count": "1200"
+      }
+    ]
+  },
+  {
+    "quest_id": "335",
+    "name": "Song of the Hunter",
+    "level": "35",
+    "start_npc": "[union member] grey",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3471",
+        "count": "1"
+      },
+      {
+        "item_id": "3471",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "200"
+      },
+      {
+        "item_id": "57",
+        "count": "400"
+      },
+      {
+        "item_id": "57",
+        "count": "800"
+      },
+      {
+        "item_id": "57",
+        "count": "1600"
+      },
+      {
+        "item_id": "57",
+        "count": "3200"
+      },
+      {
+        "item_id": "57",
+        "count": "6400"
+      },
+      {
+        "item_id": "57",
+        "count": "12800"
+      },
+      {
+        "item_id": "57",
+        "count": "25600"
+      },
+      {
+        "item_id": "57",
+        "count": "51200"
+      },
+      {
+        "item_id": "3709",
+        "count": "40"
+      },
+      {
+        "item_id": "3710",
+        "count": "20"
+      },
+      {
+        "item_id": "3714",
+        "count": "1"
+      },
+      {
+        "item_id": "3715",
+        "count": "20"
+      },
+      {
+        "item_id": "3716",
+        "count": "30"
+      },
+      {
+        "item_id": "3717",
+        "count": "20"
+      },
+      {
+        "item_id": "3718",
+        "count": "20"
+      },
+      {
+        "item_id": "3719",
+        "count": "30"
+      },
+      {
+        "item_id": "3720",
+        "count": "20"
+      },
+      {
+        "item_id": "3721",
+        "count": "20"
+      },
+      {
+        "item_id": "3722",
+        "count": "1"
+      },
+      {
+        "item_id": "3723",
+        "count": "1"
+      },
+      {
+        "item_id": "3724",
+        "count": "1"
+      },
+      {
+        "item_id": "3725",
+        "count": "1"
+      },
+      {
+        "item_id": "3726",
+        "count": "1"
+      },
+      {
+        "item_id": "3694",
+        "count": "1"
+      },
+      {
+        "item_id": "3769",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "4500"
+      },
+      {
+        "item_id": "3770",
+        "count": "50"
+      },
+      {
+        "item_id": "57",
+        "count": "7500"
+      },
+      {
+        "item_id": "3771",
+        "count": "50"
+      },
+      {
+        "item_id": "57",
+        "count": "7300"
+      },
+      {
+        "item_id": "3772",
+        "count": "30"
+      },
+      {
+        "item_id": "57",
+        "count": "5500"
+      },
+      {
+        "item_id": "3773",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "6500"
+      },
+      {
+        "item_id": "3709",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "5000"
+      },
+      {
+        "item_id": "3775",
+        "count": "50"
+      },
+      {
+        "item_id": "57",
+        "count": "4400"
+      },
+      {
+        "item_id": "3776",
+        "count": "30"
+      },
+      {
+        "item_id": "57",
+        "count": "5200"
+      },
+      {
+        "item_id": "3777",
+        "count": "100"
+      },
+      {
+        "item_id": "57",
+        "count": "7600"
+      },
+      {
+        "item_id": "3778",
+        "count": "50"
+      },
+      {
+        "item_id": "57",
+        "count": "4900"
+      },
+      {
+        "item_id": "3779",
+        "count": "30"
+      },
+      {
+        "item_id": "57",
+        "count": "7600"
+      },
+      {
+        "item_id": "3780",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "7200"
+      },
+      {
+        "item_id": "3786",
+        "count": "30"
+      },
+      {
+        "item_id": "57",
+        "count": "10000"
+      },
+      {
+        "item_id": "3785",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "7000"
+      },
+      {
+        "item_id": "3784",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "4500"
+      },
+      {
+        "item_id": "3783",
+        "count": "50"
+      },
+      {
+        "item_id": "57",
+        "count": "5800"
+      },
+      {
+        "item_id": "3782",
+        "count": "50"
+      },
+      {
+        "item_id": "57",
+        "count": "9500"
+      },
+      {
+        "item_id": "3782",
+        "count": "50"
+      },
+      {
+        "item_id": "57",
+        "count": "9500"
+      },
+      {
+        "item_id": "3781",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "4500"
+      },
+      {
+        "item_id": "3789",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "15000"
+      },
+      {
+        "item_id": "3789",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "12000"
+      },
+      {
+        "item_id": "3787",
+        "count": "30"
+      },
+      {
+        "item_id": "57",
+        "count": "18000"
+      },
+      {
+        "item_id": "3799",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "7000"
+      },
+      {
+        "item_id": "3801",
+        "count": "30"
+      },
+      {
+        "item_id": "57",
+        "count": "13400"
+      },
+      {
+        "item_id": "3800",
+        "count": "30"
+      },
+      {
+        "item_id": "57",
+        "count": "7100"
+      },
+      {
+        "item_id": "3798",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "7800"
+      },
+      {
+        "item_id": "3797",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "7800"
+      },
+      {
+        "item_id": "3796",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "6200"
+      },
+      {
+        "item_id": "3795",
+        "count": "30"
+      },
+      {
+        "item_id": "57",
+        "count": "11600"
+      },
+      {
+        "item_id": "3794",
+        "count": "20"
+      },
+      {
+        "item_id": "57",
+        "count": "8700"
+      },
+      {
+        "item_id": "3793",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "7200"
+      },
+      {
+        "item_id": "3791",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "5900"
+      },
+      {
+        "item_id": "3790",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "6200"
+      },
+      {
+        "item_id": "3807",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5500"
+      },
+      {
+        "item_id": "3806",
+        "count": "20"
+      },
+      {
+        "item_id": "57",
+        "count": "8800"
+      },
+      {
+        "item_id": "3805",
+        "count": "20"
+      },
+      {
+        "item_id": "57",
+        "count": "11000"
+      },
+      {
+        "item_id": "3804",
+        "count": "40"
+      },
+      {
+        "item_id": "57",
+        "count": "8800"
+      },
+      {
+        "item_id": "3803",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5300"
+      },
+      {
+        "item_id": "3802",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "8200"
+      },
+      {
+        "item_id": "3809",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "16000"
+      },
+      {
+        "item_id": "3810",
+        "count": "10"
+      },
+      {
+        "item_id": "57",
+        "count": "18000"
+      },
+      {
+        "item_id": "3808",
+        "count": "20"
+      },
+      {
+        "item_id": "57",
+        "count": "16000"
+      },
+      {
+        "item_id": "3471",
+        "count": "1"
+      },
+      {
+        "item_id": "3698",
+        "count": "1"
+      },
+      {
+        "item_id": "3471",
+        "count": "1"
+      },
+      {
+        "item_id": "3708",
+        "count": "1"
+      },
+      {
+        "item_id": "3699",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "200"
+      },
+      {
+        "item_id": "3700",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "400"
+      },
+      {
+        "item_id": "3701",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "800"
+      },
+      {
+        "item_id": "3702",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "1600"
+      },
+      {
+        "item_id": "3703",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "3200"
+      },
+      {
+        "item_id": "3704",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "6400"
+      },
+      {
+        "item_id": "3705",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "12800"
+      },
+      {
+        "item_id": "3706",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "25600"
+      },
+      {
+        "item_id": "3707",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "51200"
+      }
+    ]
+  },
+  {
+    "quest_id": "103",
+    "name": "Spirit of Craftsman",
+    "level": "11",
+    "start_npc": "[Blacksmith] Karrod",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "975",
+        "count": "1"
+      },
+      {
+        "item_id": "968",
+        "count": "1"
+      },
+      {
+        "item_id": "969",
+        "count": "1"
+      },
+      {
+        "item_id": "970",
+        "count": "1"
+      },
+      {
+        "item_id": "1107",
+        "count": "10"
+      },
+      {
+        "item_id": "971",
+        "count": "1"
+      },
+      {
+        "item_id": "972",
+        "count": "1"
+      },
+      {
+        "item_id": "973",
+        "count": "1"
+      },
+      {
+        "item_id": "974",
+        "count": "1"
+      },
+      {
+        "item_id": "975",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "104",
+    "name": "Spirit of Mirrors",
+    "level": "10",
+    "start_npc": "[Grand Magister] Gallint",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "747",
+        "count": "1"
+      },
+      {
+        "item_id": "748",
+        "count": "3"
+      },
+      {
+        "item_id": "1135",
+        "count": "1"
+      },
+      {
+        "item_id": "1136",
+        "count": "1"
+      },
+      {
+        "item_id": "1137",
+        "count": "1"
+      },
+      {
+        "item_id": "747",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "324",
+    "name": "Sweetest Venom",
+    "level": "18",
+    "start_npc": "Astaron",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "3500"
+      },
+      {
+        "item_id": "1077",
+        "count": "10"
+      },
+      {
+        "item_id": "57",
+        "count": "3500"
+      }
+    ]
+  },
+  {
+    "quest_id": "101",
+    "name": "Sword of Solidarity",
+    "level": "9",
+    "start_npc": "[Grand Master] Roien",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "738",
+        "count": "1"
+      },
+      {
+        "item_id": "796",
+        "count": "1"
+      },
+      {
+        "item_id": "937",
+        "count": "1"
+      },
+      {
+        "item_id": "741",
+        "count": "1"
+      },
+      {
+        "item_id": "740",
+        "count": "1"
+      },
+      {
+        "item_id": "742",
+        "count": "1"
+      },
+      {
+        "item_id": "739",
+        "count": "1"
+      },
+      {
+        "item_id": "738",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "296",
+    "name": "Tarantula’s Spider Silk",
+    "level": "15",
+    "start_npc": "[Trader] Mion",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "20"
+      },
+      {
+        "item_id": "1493",
+        "count": "1"
+      },
+      {
+        "item_id": "1494",
+        "count": "1"
+      },
+      {
+        "item_id": "1494",
+        "count": "1"
+      },
+      {
+        "item_id": "1493",
+        "count": "20"
+      },
+      {
+        "item_id": "57",
+        "count": "20"
+      }
+    ]
+  },
+  {
+    "quest_id": "9999",
+    "name": "test (Unknown / No level restrictions)",
+    "level": "",
+    "start_npc": "",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": []
+  },
+  {
+    "quest_id": "257",
+    "name": "The Guard is Busy",
+    "level": "6",
+    "start_npc": "[Captain] Gilbert",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "5"
+      },
+      {
+        "item_id": "57",
+        "count": "10"
+      },
+      {
+        "item_id": "57",
+        "count": "15"
+      },
+      {
+        "item_id": "1086",
+        "count": "1"
+      },
+      {
+        "item_id": "752",
+        "count": "1"
+      },
+      {
+        "item_id": "1085",
+        "count": "1"
+      },
+      {
+        "item_id": "752",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5"
+      },
+      {
+        "item_id": "1086",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "10"
+      },
+      {
+        "item_id": "1085",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "15"
+      }
+    ]
+  },
+  {
+    "quest_id": "293",
+    "name": "The Hidden Veins",
+    "level": "6",
+    "start_npc": "[Gray Pillar's] Filaur",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "10"
+      },
+      {
+        "item_id": "57",
+        "count": "1000"
+      },
+      {
+        "item_id": "1488",
+        "count": "1"
+      },
+      {
+        "item_id": "1489",
+        "count": "1"
+      },
+      {
+        "item_id": "1489",
+        "count": "4"
+      },
+      {
+        "item_id": "57",
+        "count": "10"
+      },
+      {
+        "item_id": "57",
+        "count": "1000"
+      }
+    ]
+  },
+  {
+    "quest_id": "334",
+    "name": "The Wishing Potion",
+    "level": "30",
+    "start_npc": "[alchemist] matild",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "10000"
+      },
+      {
+        "item_id": "57",
+        "count": "1"
+      },
+      {
+        "item_id": "3470",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5000"
+      },
+      {
+        "item_id": "3469",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "500"
+      },
+      {
+        "item_id": "3468",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5"
+      },
+      {
+        "item_id": "2435",
+        "count": "1"
+      },
+      {
+        "item_id": "2459",
+        "count": "1"
+      },
+      {
+        "item_id": "472",
+        "count": "1"
+      },
+      {
+        "item_id": "441",
+        "count": "1"
+      },
+      {
+        "item_id": "736",
+        "count": "1"
+      },
+      {
+        "item_id": "931",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "500000"
+      },
+      {
+        "item_id": "1049",
+        "count": "1"
+      },
+      {
+        "item_id": "1050",
+        "count": "1"
+      },
+      {
+        "item_id": "3943",
+        "count": "1"
+      },
+      {
+        "item_id": "3679",
+        "count": "1"
+      },
+      {
+        "item_id": "3680",
+        "count": "1"
+      },
+      {
+        "item_id": "3681",
+        "count": "1"
+      },
+      {
+        "item_id": "3684",
+        "count": "1"
+      },
+      {
+        "item_id": "3691",
+        "count": "1"
+      },
+      {
+        "item_id": "3688",
+        "count": "1"
+      },
+      {
+        "item_id": "3687",
+        "count": "1"
+      },
+      {
+        "item_id": "3686",
+        "count": "1"
+      },
+      {
+        "item_id": "3689",
+        "count": "1"
+      },
+      {
+        "item_id": "3690",
+        "count": "1"
+      },
+      {
+        "item_id": "3685",
+        "count": "1"
+      },
+      {
+        "item_id": "3682",
+        "count": "1"
+      },
+      {
+        "item_id": "3467",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "10000"
+      },
+      {
+        "item_id": "57",
+        "count": "1"
+      },
+      {
+        "item_id": "3470",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5000"
+      },
+      {
+        "item_id": "3469",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "500"
+      },
+      {
+        "item_id": "3468",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5"
+      },
+      {
+        "item_id": "2435",
+        "count": "1"
+      },
+      {
+        "item_id": "2459",
+        "count": "1"
+      },
+      {
+        "item_id": "472",
+        "count": "1"
+      },
+      {
+        "item_id": "441",
+        "count": "1"
+      },
+      {
+        "item_id": "736",
+        "count": "1"
+      },
+      {
+        "item_id": "931",
+        "count": "1"
+      },
+      {
+        "item_id": "3683",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "500000"
+      },
+      {
+        "item_id": "1049",
+        "count": "1"
+      },
+      {
+        "item_id": "1050",
+        "count": "1"
+      },
+      {
+        "item_id": "3943",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "276",
+    "name": "Totem of the Hestui",
+    "level": "15",
+    "start_npc": "[Seer] Tanapi",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1500",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5200"
+      },
+      {
+        "item_id": "1480",
+        "count": "1"
+      },
+      {
+        "item_id": "1480",
+        "count": "50"
+      },
+      {
+        "item_id": "1481",
+        "count": "1"
+      },
+      {
+        "item_id": "1481",
+        "count": "1"
+      },
+      {
+        "item_id": "1500",
+        "count": "1"
+      },
+      {
+        "item_id": "1500",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "5200"
+      }
+    ]
+  },
+  {
+    "quest_id": "326",
+    "name": "Vanquish Remnants",
+    "level": "21",
+    "start_npc": "Leopold",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1359",
+        "count": "1"
+      },
+      {
+        "item_id": "1360",
+        "count": "1"
+      },
+      {
+        "item_id": "1361",
+        "count": "1"
+      },
+      {
+        "item_id": "1369",
+        "count": "1"
+      },
+      {
+        "item_id": "1359",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "60"
+      },
+      {
+        "item_id": "1360",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "65"
+      },
+      {
+        "item_id": "1361",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "70"
+      },
+      {
+        "item_id": "1369",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "2",
+    "name": "What Women Want",
+    "level": "2",
+    "start_npc": "Arujien",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1073",
+        "count": "5"
+      },
+      {
+        "item_id": "1092",
+        "count": "1"
+      },
+      {
+        "item_id": "1093",
+        "count": "1"
+      },
+      {
+        "item_id": "1094",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "450"
+      },
+      {
+        "item_id": "689",
+        "count": "1"
+      },
+      {
+        "item_id": "689",
+        "count": "1"
+      },
+      {
+        "item_id": "693",
+        "count": "1"
+      },
+      {
+        "item_id": "1073",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "quest_id": "3",
+    "name": "Will the Seal be Broken?",
+    "level": "16",
+    "start_npc": "[Tetrarch] Talloth",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "4900"
+      },
+      {
+        "item_id": "1081",
+        "count": "1"
+      },
+      {
+        "item_id": "1082",
+        "count": "1"
+      },
+      {
+        "item_id": "1083",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "4900"
+      }
+    ]
+  },
+  {
+    "quest_id": "272",
+    "name": "Wrath of Ancestors",
+    "level": "5",
+    "start_npc": "[Seer] Livina",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "1500"
+      },
+      {
+        "item_id": "1474",
+        "count": "50"
+      },
+      {
+        "item_id": "1474",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "1500"
+      }
+    ]
+  },
+  {
+    "quest_id": "267",
+    "name": "Wrath of Verdure",
+    "level": "4",
+    "start_npc": "Treant Bremec",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1340",
+        "count": "1"
+      },
+      {
+        "item_id": "1335",
+        "count": "1"
+      },
+      {
+        "item_id": "1335",
+        "count": "1"
+      },
+      {
+        "item_id": "1340",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "405",
+    "name": "Path to a Cleric",
+    "level": "19",
+    "start_npc": "[Priest] Zigaunt",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1199",
+        "count": "1"
+      },
+      {
+        "item_id": "1201",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "412",
+    "name": "Path to a Dark Wizard",
+    "level": "19",
+    "start_npc": "Varika",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1260",
+        "count": "3"
+      },
+      {
+        "item_id": "1259",
+        "count": "2"
+      },
+      {
+        "item_id": "1257",
+        "count": "3"
+      },
+      {
+        "item_id": "1261",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "402",
+    "name": "Path to a Human Knight",
+    "level": "19",
+    "start_npc": "Sir Klaus Vasper",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1175",
+        "count": "20"
+      },
+      {
+        "item_id": "1173",
+        "count": "20"
+      },
+      {
+        "item_id": "1169",
+        "count": "10"
+      },
+      {
+        "item_id": "1161",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "404",
+    "name": "Path to a Human Wizard",
+    "level": "19",
+    "start_npc": "Parina",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1281",
+        "count": "1"
+      },
+      {
+        "item_id": "1287",
+        "count": "2"
+      },
+      {
+        "item_id": "1290",
+        "count": "1"
+      },
+      {
+        "item_id": "1292",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "415",
+    "name": "Path to a Paagrio Monk",
+    "level": "19",
+    "start_npc": "Gantaki Zu Urutu",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1600",
+        "count": "5"
+      },
+      {
+        "item_id": "1601",
+        "count": "5"
+      },
+      {
+        "item_id": "1602",
+        "count": "5"
+      },
+      {
+        "item_id": "1609",
+        "count": "3"
+      },
+      {
+        "item_id": "1610",
+        "count": "3"
+      },
+      {
+        "item_id": "1611",
+        "count": "3"
+      },
+      {
+        "item_id": "1612",
+        "count": "3"
+      },
+      {
+        "item_id": "1615",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "410",
+    "name": "Path to a Palus Knight",
+    "level": "19",
+    "start_npc": "[Master] Virgil",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1238",
+        "count": "13"
+      },
+      {
+        "item_id": "1241",
+        "count": "1"
+      },
+      {
+        "item_id": "1242",
+        "count": "5"
+      },
+      {
+        "item_id": "1244",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "417",
+    "name": "Path to a Raider",
+    "level": "19",
+    "start_npc": "[Collector] Pippi",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1655",
+        "count": "1"
+      },
+      {
+        "item_id": "1655",
+        "count": "5"
+      },
+      {
+        "item_id": "1656",
+        "count": "20"
+      },
+      {
+        "item_id": "1642",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "403",
+    "name": "Path to a Rogue",
+    "level": "19",
+    "start_npc": "[Captain] Bezique",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1182",
+        "count": "1"
+      },
+      {
+        "item_id": "1181",
+        "count": "1"
+      },
+      {
+        "item_id": "1183",
+        "count": "10"
+      },
+      {
+        "item_id": "1186",
+        "count": "1"
+      },
+      {
+        "item_id": "1187",
+        "count": "1"
+      },
+      {
+        "item_id": "1188",
+        "count": "1"
+      },
+      {
+        "item_id": "1189",
+        "count": "1"
+      },
+      {
+        "item_id": "1190",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "413",
+    "name": "Path to a Shillien Oracle",
+    "level": "19",
+    "start_npc": "[Magister] Sidra",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1264",
+        "count": "5"
+      },
+      {
+        "item_id": "1268",
+        "count": "10"
+      },
+      {
+        "item_id": "1270",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "401",
+    "name": "Path to a Warrior",
+    "level": "19",
+    "start_npc": "[Master] Auron",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1140",
+        "count": "10"
+      },
+      {
+        "item_id": "1144",
+        "count": "20"
+      },
+      {
+        "item_id": "1142",
+        "count": "1"
+      },
+      {
+        "item_id": "1145",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "418",
+    "name": "Path to an Artisan",
+    "level": "19",
+    "start_npc": "[Blacksmith] Silvera",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1636",
+        "count": "10"
+      },
+      {
+        "item_id": "1637",
+        "count": "2"
+      },
+      {
+        "item_id": "1640",
+        "count": "1"
+      },
+      {
+        "item_id": "1635",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "411",
+    "name": "Path to an Assassin",
+    "level": "19",
+    "start_npc": "Triskel",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1248",
+        "count": "10"
+      },
+      {
+        "item_id": "1250",
+        "count": "1"
+      },
+      {
+        "item_id": "1252",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "406",
+    "name": "Path to an Elven Knight",
+    "level": "19",
+    "start_npc": "[Master] Sorius",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1205",
+        "count": "20"
+      },
+      {
+        "item_id": "1206",
+        "count": "20"
+      },
+      {
+        "item_id": "1204",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "409",
+    "name": "Path to an Elven Oracle",
+    "level": "19",
+    "start_npc": "[Priest] Manuel",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1234",
+        "count": "1"
+      },
+      {
+        "item_id": "1275",
+        "count": "1"
+      },
+      {
+        "item_id": "1235",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "407",
+    "name": "Path to an Elven Ranger",
+    "level": "19",
+    "start_npc": "[Master] Reisa",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1208",
+        "count": "1"
+      },
+      {
+        "item_id": "1209",
+        "count": "1"
+      },
+      {
+        "item_id": "1210",
+        "count": "1"
+      },
+      {
+        "item_id": "1211",
+        "count": "1"
+      },
+      {
+        "item_id": "1293",
+        "count": "1"
+      },
+      {
+        "item_id": "1217",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "408",
+    "name": "Path to an Elven Wizard",
+    "level": "19",
+    "start_npc": "Rosella",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1219",
+        "count": "5"
+      },
+      {
+        "item_id": "1223",
+        "count": "5"
+      },
+      {
+        "item_id": "1225",
+        "count": "2"
+      },
+      {
+        "item_id": "1230",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "414",
+    "name": "Path to an Orc Marauder",
+    "level": "19",
+    "start_npc": "[Prefect] Karukia",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1578",
+        "count": "25"
+      },
+      {
+        "item_id": "1580",
+        "count": "10"
+      },
+      {
+        "item_id": "1592",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "416",
+    "name": "Path to an Orc Shaman",
+    "level": "19",
+    "start_npc": "Tataru Zu Hestui",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "1617",
+        "count": "1"
+      },
+      {
+        "item_id": "1618",
+        "count": "1"
+      },
+      {
+        "item_id": "1619",
+        "count": "1"
+      },
+      {
+        "item_id": "1625",
+        "count": "3"
+      },
+      {
+        "item_id": "1628",
+        "count": "1"
+      },
+      {
+        "item_id": "1631",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "228",
+    "name": "Test of Magus",
+    "level": "39",
+    "start_npc": "[Bard] Rukal",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2844",
+        "count": "1"
+      },
+      {
+        "item_id": "2845",
+        "count": "1"
+      },
+      {
+        "item_id": "2846",
+        "count": "1"
+      },
+      {
+        "item_id": "2848",
+        "count": "20"
+      },
+      {
+        "item_id": "2851",
+        "count": "10"
+      },
+      {
+        "item_id": "2852",
+        "count": "10"
+      },
+      {
+        "item_id": "2853",
+        "count": "10"
+      },
+      {
+        "item_id": "2854",
+        "count": "10"
+      },
+      {
+        "item_id": "2855",
+        "count": "10"
+      },
+      {
+        "item_id": "2849",
+        "count": "5"
+      },
+      {
+        "item_id": "2850",
+        "count": "20"
+      },
+      {
+        "item_id": "2840",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "224",
+    "name": "Test of Sagittarius",
+    "level": "39",
+    "start_npc": "[Guild President] Bernard",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3298",
+        "count": "10"
+      },
+      {
+        "item_id": "3299",
+        "count": "10"
+      },
+      {
+        "item_id": "3305",
+        "count": "1"
+      },
+      {
+        "item_id": "3304",
+        "count": "1"
+      },
+      {
+        "item_id": "3303",
+        "count": "1"
+      },
+      {
+        "item_id": "3302",
+        "count": "1"
+      },
+      {
+        "item_id": "3306",
+        "count": "100"
+      },
+      {
+        "item_id": "3300",
+        "count": "1"
+      },
+      {
+        "item_id": "3028",
+        "count": "1"
+      },
+      {
+        "item_id": "3293",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "223",
+    "name": "Test of the Champion",
+    "level": "39",
+    "start_npc": "[Veteran] Ascalon",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3290",
+        "count": "100"
+      },
+      {
+        "item_id": "3287",
+        "count": "30"
+      },
+      {
+        "item_id": "3288",
+        "count": "30"
+      },
+      {
+        "item_id": "3289",
+        "count": "30"
+      },
+      {
+        "item_id": "3291",
+        "count": "100"
+      },
+      {
+        "item_id": "3292",
+        "count": "100"
+      },
+      {
+        "item_id": "3276",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "222",
+    "name": "Test of the Duelist",
+    "level": "39",
+    "start_npc": "[Duelist] Kaien",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2768",
+        "count": "10"
+      },
+      {
+        "item_id": "2769",
+        "count": "10"
+      },
+      {
+        "item_id": "2770",
+        "count": "10"
+      },
+      {
+        "item_id": "2771",
+        "count": "10"
+      },
+      {
+        "item_id": "2772",
+        "count": "10"
+      },
+      {
+        "item_id": "2773",
+        "count": "10"
+      },
+      {
+        "item_id": "2774",
+        "count": "10"
+      },
+      {
+        "item_id": "2775",
+        "count": "10"
+      },
+      {
+        "item_id": "2776",
+        "count": "10"
+      },
+      {
+        "item_id": "2777",
+        "count": "10"
+      },
+      {
+        "item_id": "2782",
+        "count": "3"
+      },
+      {
+        "item_id": "2780",
+        "count": "3"
+      },
+      {
+        "item_id": "2781",
+        "count": "3"
+      },
+      {
+        "item_id": "2783",
+        "count": "3"
+      },
+      {
+        "item_id": "2779",
+        "count": "3"
+      },
+      {
+        "item_id": "2762",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "226",
+    "name": "Test of the Healer",
+    "level": "39",
+    "start_npc": "[Priest] Bandellos",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "100000"
+      },
+      {
+        "item_id": "2816",
+        "count": "1"
+      },
+      {
+        "item_id": "2817",
+        "count": "1"
+      },
+      {
+        "item_id": "2818",
+        "count": "1"
+      },
+      {
+        "item_id": "2819",
+        "count": "1"
+      },
+      {
+        "item_id": "2820",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "232",
+    "name": "Test of the Lord",
+    "level": "39",
+    "start_npc": "[Flame Lord] Kakai",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "1000"
+      },
+      {
+        "item_id": "1341",
+        "count": "1000"
+      },
+      {
+        "item_id": "3398",
+        "count": "20"
+      },
+      {
+        "item_id": "3407",
+        "count": "10"
+      },
+      {
+        "item_id": "3408",
+        "count": "10"
+      },
+      {
+        "item_id": "3403",
+        "count": "20"
+      },
+      {
+        "item_id": "3410",
+        "count": "20"
+      },
+      {
+        "item_id": "3414",
+        "count": "1"
+      },
+      {
+        "item_id": "3390",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "231",
+    "name": "Test of the Maestro",
+    "level": "39",
+    "start_npc": "[Iron Gate's] Lockirin",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2870",
+        "count": "1"
+      },
+      {
+        "item_id": "2878",
+        "count": "10"
+      },
+      {
+        "item_id": "2876",
+        "count": "10"
+      },
+      {
+        "item_id": "2877",
+        "count": "10"
+      },
+      {
+        "item_id": "2867",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "227",
+    "name": "Test of the Reformer",
+    "level": "39",
+    "start_npc": "[Priest] Pupina",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2831",
+        "count": "7"
+      },
+      {
+        "item_id": "2832",
+        "count": "1"
+      },
+      {
+        "item_id": "2833",
+        "count": "1"
+      },
+      {
+        "item_id": "2834",
+        "count": "1"
+      },
+      {
+        "item_id": "2835",
+        "count": "1"
+      },
+      {
+        "item_id": "2836",
+        "count": "1"
+      },
+      {
+        "item_id": "2837",
+        "count": "1"
+      },
+      {
+        "item_id": "2838",
+        "count": "1"
+      },
+      {
+        "item_id": "2821",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "225",
+    "name": "Test of the Searcher",
+    "level": "39",
+    "start_npc": "[Master] Luther",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2787",
+        "count": "10"
+      },
+      {
+        "item_id": "2789",
+        "count": "1"
+      },
+      {
+        "item_id": "2791",
+        "count": "1"
+      },
+      {
+        "item_id": "2797",
+        "count": "10"
+      },
+      {
+        "item_id": "2801",
+        "count": "4"
+      },
+      {
+        "item_id": "2802",
+        "count": "4"
+      },
+      {
+        "item_id": "2809",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "230",
+    "name": "Test of the Summoner",
+    "level": "39",
+    "start_npc": "[High Summoner] Galatea",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3347",
+        "count": "1"
+      },
+      {
+        "item_id": "3337",
+        "count": "30"
+      },
+      {
+        "item_id": "3338",
+        "count": "30"
+      },
+      {
+        "item_id": "3348",
+        "count": "1"
+      },
+      {
+        "item_id": "3340",
+        "count": "30"
+      },
+      {
+        "item_id": "3339",
+        "count": "30"
+      },
+      {
+        "item_id": "3349",
+        "count": "1"
+      },
+      {
+        "item_id": "3341",
+        "count": "30"
+      },
+      {
+        "item_id": "3342",
+        "count": "30"
+      },
+      {
+        "item_id": "3350",
+        "count": "1"
+      },
+      {
+        "item_id": "3343",
+        "count": "30"
+      },
+      {
+        "item_id": "3345",
+        "count": "30"
+      },
+      {
+        "item_id": "3351",
+        "count": "1"
+      },
+      {
+        "item_id": "3344",
+        "count": "30"
+      },
+      {
+        "item_id": "3346",
+        "count": "30"
+      },
+      {
+        "item_id": "3364",
+        "count": "1"
+      },
+      {
+        "item_id": "3369",
+        "count": "1"
+      },
+      {
+        "item_id": "3379",
+        "count": "1"
+      },
+      {
+        "item_id": "3384",
+        "count": "1"
+      },
+      {
+        "item_id": "3374",
+        "count": "1"
+      },
+      {
+        "item_id": "3389",
+        "count": "1"
+      },
+      {
+        "item_id": "3336",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "233",
+    "name": "Test of the War Spirit",
+    "level": "39",
+    "start_npc": "[Seer] Somak",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2885",
+        "count": "10"
+      },
+      {
+        "item_id": "2884",
+        "count": "10"
+      },
+      {
+        "item_id": "2886",
+        "count": "10"
+      },
+      {
+        "item_id": "2905",
+        "count": "1"
+      },
+      {
+        "item_id": "2906",
+        "count": "1"
+      },
+      {
+        "item_id": "2907",
+        "count": "1"
+      },
+      {
+        "item_id": "2908",
+        "count": "1"
+      },
+      {
+        "item_id": "2909",
+        "count": "1"
+      },
+      {
+        "item_id": "2889",
+        "count": "1"
+      },
+      {
+        "item_id": "2890",
+        "count": "1"
+      },
+      {
+        "item_id": "2891",
+        "count": "1"
+      },
+      {
+        "item_id": "2892",
+        "count": "1"
+      },
+      {
+        "item_id": "2893",
+        "count": "1"
+      },
+      {
+        "item_id": "2897",
+        "count": "1"
+      },
+      {
+        "item_id": "2898",
+        "count": "1"
+      },
+      {
+        "item_id": "2899",
+        "count": "1"
+      },
+      {
+        "item_id": "2900",
+        "count": "1"
+      },
+      {
+        "item_id": "2896",
+        "count": "1"
+      },
+      {
+        "item_id": "2881",
+        "count": "13"
+      },
+      {
+        "item_id": "2879",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "229",
+    "name": "Test of Witchcraft",
+    "level": "39",
+    "start_npc": "[Shadow] Orim",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3313",
+        "count": "20"
+      },
+      {
+        "item_id": "3312",
+        "count": "20"
+      },
+      {
+        "item_id": "3311",
+        "count": "20"
+      },
+      {
+        "item_id": "3319",
+        "count": "1"
+      },
+      {
+        "item_id": "3320",
+        "count": "1"
+      },
+      {
+        "item_id": "3321",
+        "count": "1"
+      },
+      {
+        "item_id": "3322",
+        "count": "1"
+      },
+      {
+        "item_id": "3329",
+        "count": "20"
+      },
+      {
+        "item_id": "3029",
+        "count": "1"
+      },
+      {
+        "item_id": "3307",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "219",
+    "name": "Testimony of Fate",
+    "level": "37",
+    "start_npc": "[Magister] Kaira",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3175",
+        "count": "1"
+      },
+      {
+        "item_id": "3181",
+        "count": "10"
+      },
+      {
+        "item_id": "3182",
+        "count": "10"
+      },
+      {
+        "item_id": "3179",
+        "count": "10"
+      },
+      {
+        "item_id": "3180",
+        "count": "10"
+      },
+      {
+        "item_id": "3178",
+        "count": "10"
+      },
+      {
+        "item_id": "3194",
+        "count": "10"
+      },
+      {
+        "item_id": "3195",
+        "count": "10"
+      },
+      {
+        "item_id": "3196",
+        "count": "10"
+      },
+      {
+        "item_id": "3197",
+        "count": "10"
+      },
+      {
+        "item_id": "3200",
+        "count": "1"
+      },
+      {
+        "item_id": "3172",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "220",
+    "name": "Testimony of Glory",
+    "level": "37",
+    "start_npc": "[Prefect] Vokian",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3205",
+        "count": "10"
+      },
+      {
+        "item_id": "3206",
+        "count": "10"
+      },
+      {
+        "item_id": "3207",
+        "count": "10"
+      },
+      {
+        "item_id": "3221",
+        "count": "1"
+      },
+      {
+        "item_id": "3222",
+        "count": "1"
+      },
+      {
+        "item_id": "3224",
+        "count": "4"
+      },
+      {
+        "item_id": "3226",
+        "count": "2"
+      },
+      {
+        "item_id": "3234",
+        "count": "30"
+      },
+      {
+        "item_id": "3219",
+        "count": "20"
+      },
+      {
+        "item_id": "3218",
+        "count": "20"
+      },
+      {
+        "item_id": "3203",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "218",
+    "name": "Testimony of Life",
+    "level": "37",
+    "start_npc": "[Master] Cardien",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3161",
+        "count": "10"
+      },
+      {
+        "item_id": "3163",
+        "count": "20"
+      },
+      {
+        "item_id": "3162",
+        "count": "20"
+      },
+      {
+        "item_id": "3164",
+        "count": "20"
+      },
+      {
+        "item_id": "3165",
+        "count": "20"
+      },
+      {
+        "item_id": "3166",
+        "count": "1"
+      },
+      {
+        "item_id": "3167",
+        "count": "1"
+      },
+      {
+        "item_id": "3168",
+        "count": "1"
+      },
+      {
+        "item_id": "3169",
+        "count": "1"
+      },
+      {
+        "item_id": "3170",
+        "count": "1"
+      },
+      {
+        "item_id": "3171",
+        "count": "1"
+      },
+      {
+        "item_id": "3159",
+        "count": "1"
+      },
+      {
+        "item_id": "3026",
+        "count": "1"
+      },
+      {
+        "item_id": "3140",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "221",
+    "name": "Testimony of Prosperity",
+    "level": "37",
+    "start_npc": "[Warehouse Keeper] Parman",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3265",
+        "count": "20"
+      },
+      {
+        "item_id": "3266",
+        "count": "10"
+      },
+      {
+        "item_id": "1867",
+        "count": "100"
+      },
+      {
+        "item_id": "3273",
+        "count": "20"
+      },
+      {
+        "item_id": "3274",
+        "count": "10"
+      },
+      {
+        "item_id": "3275",
+        "count": "10"
+      },
+      {
+        "item_id": "1458",
+        "count": "10"
+      },
+      {
+        "item_id": "3023",
+        "count": "1"
+      },
+      {
+        "item_id": "3238",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "217",
+    "name": "Testimony of Trust",
+    "level": "37",
+    "start_npc": "[High Priest] Hollint",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2747",
+        "count": "1"
+      },
+      {
+        "item_id": "2746",
+        "count": "1"
+      },
+      {
+        "item_id": "2752",
+        "count": "10"
+      },
+      {
+        "item_id": "2750",
+        "count": "10"
+      },
+      {
+        "item_id": "2751",
+        "count": "10"
+      },
+      {
+        "item_id": "2756",
+        "count": "10"
+      },
+      {
+        "item_id": "2761",
+        "count": "10"
+      },
+      {
+        "item_id": "2734",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "212",
+    "name": "Trial of Duty",
+    "level": "35",
+    "start_npc": "[Grand Master] Hannavalt",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "3027",
+        "count": "1"
+      },
+      {
+        "item_id": "3027",
+        "count": "1"
+      },
+      {
+        "item_id": "2638",
+        "count": "10"
+      },
+      {
+        "item_id": "2641",
+        "count": "20"
+      },
+      {
+        "item_id": "2643",
+        "count": "1"
+      },
+      {
+        "item_id": "2644",
+        "count": "1"
+      },
+      {
+        "item_id": "2645",
+        "count": "1"
+      },
+      {
+        "item_id": "2633",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "211",
+    "name": "Trial of the Challenger",
+    "level": "35",
+    "start_npc": "Kash",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2631",
+        "count": "1"
+      },
+      {
+        "item_id": "2632",
+        "count": "1"
+      },
+      {
+        "item_id": "2632",
+        "count": "1"
+      },
+      {
+        "item_id": "2629",
+        "count": "1"
+      },
+      {
+        "item_id": "2630",
+        "count": "1"
+      },
+      {
+        "item_id": "2627",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "216",
+    "name": "Trial of the Guildsman",
+    "level": "35",
+    "start_npc": "[Warehouse Keeper] Valkon",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "2000"
+      },
+      {
+        "item_id": "3121",
+        "count": "1"
+      },
+      {
+        "item_id": "3024",
+        "count": "1"
+      },
+      {
+        "item_id": "1880",
+        "count": "7"
+      },
+      {
+        "item_id": "1865",
+        "count": "70"
+      },
+      {
+        "item_id": "1458",
+        "count": "70"
+      },
+      {
+        "item_id": "3128",
+        "count": "30"
+      },
+      {
+        "item_id": "3130",
+        "count": "70"
+      },
+      {
+        "item_id": "3131",
+        "count": "70"
+      },
+      {
+        "item_id": "3132",
+        "count": "70"
+      },
+      {
+        "item_id": "3133",
+        "count": "70"
+      },
+      {
+        "item_id": "3136",
+        "count": "70"
+      },
+      {
+        "item_id": "3025",
+        "count": "1"
+      },
+      {
+        "item_id": "3137",
+        "count": "1"
+      },
+      {
+        "item_id": "3136",
+        "count": "5"
+      },
+      {
+        "item_id": "3137",
+        "count": "1"
+      },
+      {
+        "item_id": "3136",
+        "count": "1"
+      },
+      {
+        "item_id": "3119",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "215",
+    "name": "Trial of the Pilgrim",
+    "level": "35",
+    "start_npc": "[Hermit] Santiago",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2725",
+        "count": "1"
+      },
+      {
+        "item_id": "57",
+        "count": "100000"
+      },
+      {
+        "item_id": "57",
+        "count": "100000"
+      },
+      {
+        "item_id": "2729",
+        "count": "1"
+      },
+      {
+        "item_id": "2732",
+        "count": "1"
+      },
+      {
+        "item_id": "2721",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "214",
+    "name": "Trial of the Scholar",
+    "level": "35",
+    "start_npc": "[Magister] Mirien",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2687",
+        "count": "5"
+      },
+      {
+        "item_id": "2695",
+        "count": "5"
+      },
+      {
+        "item_id": "2696",
+        "count": "5"
+      },
+      {
+        "item_id": "2697",
+        "count": "2"
+      },
+      {
+        "item_id": "2708",
+        "count": "1"
+      },
+      {
+        "item_id": "2716",
+        "count": "10"
+      },
+      {
+        "item_id": "2717",
+        "count": "12"
+      },
+      {
+        "item_id": "2718",
+        "count": "5"
+      },
+      {
+        "item_id": "2719",
+        "count": "5"
+      },
+      {
+        "item_id": "2674",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "213",
+    "name": "Trial of the Seeker",
+    "level": "35",
+    "start_npc": "[Master] Dufner",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "2653",
+        "count": "1"
+      },
+      {
+        "item_id": "2654",
+        "count": "1"
+      },
+      {
+        "item_id": "2655",
+        "count": "1"
+      },
+      {
+        "item_id": "2656",
+        "count": "1"
+      },
+      {
+        "item_id": "2657",
+        "count": "1"
+      },
+      {
+        "item_id": "2660",
+        "count": "10"
+      },
+      {
+        "item_id": "2668",
+        "count": "1"
+      },
+      {
+        "item_id": "2669",
+        "count": "1"
+      },
+      {
+        "item_id": "2670",
+        "count": "1"
+      },
+      {
+        "item_id": "2671",
+        "count": "1"
+      },
+      {
+        "item_id": "2673",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "quest_id": "501",
+    "name": "Proof of Clan Alliance (Unknown / No level restrictions)",
+    "level": "",
+    "start_npc": "[Sir] Kristof Rodemai",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": []
+  },
+  {
+    "quest_id": "503",
+    "name": "Pursuit of Clan Ambition! (Unknown / No level restrictions)",
+    "level": "",
+    "start_npc": "[Sir] Gustaf Athebaldt",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": []
+  },
+  {
+    "quest_id": "262",
+    "name": "Trade with the Ivory Tower",
+    "level": "8",
+    "start_npc": "[Trader] Vollodos",
+    "description": "",
+    "restrictions": "",
+    "repeatable": "No",
+    "last_hit": "Solo",
+    "rewards": [
+      {
+        "item_id": "57",
+        "count": "2000"
+      },
+      {
+        "item_id": "707",
+        "count": "10"
+      },
+      {
+        "item_id": "707",
+        "count": "10"
+      },
+      {
+        "item_id": "57",
+        "count": "2000"
+      }
+    ]
+  }
+]

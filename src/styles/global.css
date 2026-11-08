@@ -1,0 +1,44 @@
+/* Reset bàsic */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #12141a;
+  --bg-panel: #1a1e27;
+  --bg-sidebar: #171a22;
+  --border: #2a2f3d;
+  --text: #e8eaf0;
+  --text-dim: #8a91a3;
+  --accent: #d4a017;   /* daurat L2 */
+  --accent-2: #7aa2ff;
+}
+
+html, body { height: 100%; }
+body { font-family: system-ui, sans-serif; color: var(--text); background: var(--bg); }
+
+/* Estructura app */
+.app-shell { display: grid; grid-template-columns: 260px 1fr; height: 100vh; }
+.sidebar { background: var(--bg-sidebar); border-right: 1px solid var(--border); overflow-y: auto; }
+.content { overflow-y: auto; padding: 24px; }
+
+/* Barra lateral */
+.sidebar-brand { padding: 16px; font-weight: 700; font-size: 18px; color: var(--accent); display: flex; gap: 8px; align-items: center; }
+.sidebar-nav { padding: 8px 12px; }
+.nav-link { display: block; padding: 10px 12px; color: var(--text-dim); text-decoration: none; border-radius: 6px; }
+.nav-link:hover { background: var(--bg-panel); color: var(--text); }
+.nav-link.active { background: var(--bg-panel); color: var(--accent); font-weight: 600; }
+.nav-group-title { padding: 8px 12px; font-size: 12px; text-transform: uppercase; color: var(--text-dim); letter-spacing: 0.5px; }
+
+/* Panells */
+.panel { background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; padding: 20px; }
+.panel-title { font-size: 18px; font-weight: 600; margin-bottom: 8px; }
+
+/* Selector de raça */
+.chart-header { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 12px; flex-wrap: wrap; }
+.race-select { background: var(--bg); color: var(--text); border: 1px solid var(--border); border-radius: 6px; padding: 8px 12px; font-size: 14px; }
+.race-select:focus { outline: none; border-color: var(--accent); }
+.muted { color: var(--text-dim); font-size: 14px; }
+.error { color: #ff6b6b; }
+
+/* Gràfic */
+.curve-svg { width: 100%; height: auto; max-height: 420px; }
+.axis-label { fill: var(--text-dim); font-size: 11px; }

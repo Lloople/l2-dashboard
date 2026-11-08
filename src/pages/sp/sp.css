@@ -1,0 +1,5 @@
+/* Estils específics de la pàgina de SP */
+.page-sp-stats { max-width: 1100px; margin: 0 auto; }
+.page-title { font-size: 22px; font-weight: 700; margin-bottom: 16px; }
+.muted { color: var(--text-dim); font-size: 14px; }
+.sp-curve-chart { padding: 8px 0; }
